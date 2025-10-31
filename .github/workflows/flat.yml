@@ -1,14 +1,15 @@
 name: data
 on:
   schedule:
-    - cron: 5 6 * * *
+    # Runs every day at 6:48 AM UTC/1:48 AM PT/4:48 AM ET
+    - cron: 48 6 * * *
   workflow_dispatch: {}
-  push:
-    paths:
-      - .github/workflows/flat.yml
+
 jobs:
   scheduled:
     runs-on: ubuntu-latest
+    env:
+      TEST_ENV: ${{ secrets.TEST_ENVIRONMENT }}
     permissions:
       contents: write
     steps:
@@ -24,10 +25,10 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: https://manage.get.gov/api/v1/get-report/current-federal
-          downloaded_filename: current-federal.csv
+          http_url: https://getgov-${{ TEST_ENV }}.app.cloud.gov/api/v1/get-report/current-federal
+          downloaded_filename: current-federal-${{ TEST_ENV }}.csv
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: https://manage.get.gov/api/v1/get-report/current-full
-          downloaded_filename: current-full.csv
+          http_url: https://getgov-${{ TEST_ENV }}.app.cloud.gov/api/v1/get-report/current-full
+          downloaded_filename: current-full-${{ TEST_ENV }}.csv
