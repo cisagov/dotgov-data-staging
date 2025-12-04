@@ -9,7 +9,7 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     env:
-      TEST_ENV_CSV_TEST: ${{ secrets.TEST_ENVIRONMENT }}
+      TEST_ENV_CSV_TEST: ${{ secrets.TEST_ENV_CSV_TEST  }}
     permissions:
       contents: write
     steps:
