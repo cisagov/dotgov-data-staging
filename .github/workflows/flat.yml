@@ -26,9 +26,9 @@ jobs:
         uses: githubocto/flat@v3
         with:
           http_url: https://getgov-${{ env.TEST_ENV_CSV_TEST }}.app.cloud.gov/api/v1/get-report/current-federal
-          downloaded_filename: current-federal-staging.csv
+          downloaded_filename: current-federal-{{ env.TEST_ENV_CSV_TEST }}.csv
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
           http_url: https://getgov-${{ env.TEST_ENV_CSV_TEST }}.app.cloud.gov/api/v1/get-report/current-full
-          downloaded_filename: current-full-staging.csv
+          downloaded_filename: current-full-{{ env.TEST_ENV_CSV_TEST }}.csv
