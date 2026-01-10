@@ -8,13 +8,13 @@ arc.gov,Federal - Executive,Appalachian Regional Commission,Appalachian Regional
 asc.gov,Federal - Executive,Appraisal Subcommittee of the Federal Financial Institutions Examination Council,Appraisal Subcommittee,Washington,DC,(blank)
 afrh.gov,Federal - Executive,Armed Forces Retirement Home,Armed Forces Retirement Home,Washington,DC,Stanley.Whitehead@afrh.gov
 goldwaterscholarship.gov,Federal - Executive,Barry Goldwater Scholarship and Excellence in Education Foundation,,Front Royal,VA,goldwaterao@goldwaterscholarship.gov
-cia.gov,Federal - Executive,Central Intelligence Agency,Central Intelligence Agency,Washington,DC,(blank)
-ic.gov,Federal - Executive,Central Intelligence Agency,Central Intelligence Agency,Washington,DC,(blank)
-istac.gov,Federal - Executive,Central Intelligence Agency,Central Intelligence Agency,Washington,DC,(blank)
-odci.gov,Federal - Executive,Central Intelligence Agency,Central Intelligence Agency,Washington,DC,(blank)
-opensource.gov,Federal - Executive,Central Intelligence Agency,DNI Open Source Center,Washington,DC,(blank)
-osde.gov,Federal - Executive,Central Intelligence Agency,CIA\GCS OSEG,Reston,VA,(blank)
-ucia.gov,Federal - Executive,Central Intelligence Agency,Central Intelligence Agency,Washington,DC,(blank)
+cia.gov,Federal - Executive,Central Intelligence Agency*,,Washington,DC,(blank)
+ic.gov,Federal - Executive,Central Intelligence Agency*,,Washington,DC,(blank)
+istac.gov,Federal - Executive,Central Intelligence Agency*,,Washington,DC,(blank)
+odci.gov,Federal - Executive,Central Intelligence Agency*,,Washington,DC,(blank)
+opensource.gov,Federal - Executive,Central Intelligence Agency*,,Washington,DC,(blank)
+osde.gov,Federal - Executive,Central Intelligence Agency*,,Reston,VA,(blank)
+ucia.gov,Federal - Executive,Central Intelligence Agency*,,Washington,DC,(blank)
 coldcaserecords.gov,Federal - Executive,Civil Rights Cold Case Records Review Board,Civil Rights Cold Case Records Review Board,Washington,DC,gsa-vulnerability-reports@gsa.gov
 cftc.gov,Federal - Executive,Commodity Futures Trading Commission,,Washington,DC,Security_VDP@cftc.gov
 devcftc.gov,Federal - Executive,Commodity Futures Trading Commission,,Washington,DC,esoc@cftc.gov
