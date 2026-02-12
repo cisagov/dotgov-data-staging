@@ -3,9 +3,9 @@ acus.gov,Federal - Executive,Administrative Conference of the United States,,Was
 achp.gov,Federal - Executive,Advisory Council on Historic Preservation,,Washington,DC,domainsecurity@achp.gov
 preserveamerica.gov,Federal - Executive,Advisory Council on Historic Preservation,,Washington,DC,domainsecurity@achp.gov
 abmc.gov,Federal - Executive,American Battle Monuments Commission,,Arlington,VA,itsec@abmc.gov
-amtrakoig.gov,Federal - Executive,AMTRAK,Office of Inspector General,Washington,DC,admin@amtrakoig.gov
+amtrakoig.gov,Federal - Executive,AMTRAK,,Washington,DC,admin@amtrakoig.gov
 arc.gov,Federal - Executive,Appalachian Regional Commission,,Washington,DC,(blank)
-asc.gov,Federal - Executive,Appraisal Subcommittee of the Federal Financial Institutions Examination Council,Appraisal Subcommittee,Washington,DC,(blank)
+asc.gov,Federal - Executive,Appraisal Subcommittee of the Federal Financial Institutions Examination Council,,Washington,DC,(blank)
 afrh.gov,Federal - Executive,Armed Forces Retirement Home,,Washington,DC,Stanley.Whitehead@afrh.gov
 goldwaterscholarship.gov,Federal - Executive,Barry Goldwater Scholarship and Excellence in Education Foundation,,Front Royal,VA,goldwaterao@goldwaterscholarship.gov
 cia.gov,Federal - Executive,Central Intelligence Agency,,Washington,DC,(blank)
@@ -60,7 +60,7 @@ pandemicoversight.gov,Federal - Executive,Council of the Inspectors General on I
 csosa.gov,Federal - Executive,Court Services and Offender Supervision Agency,Office of information Technology,Washington,DC,Soc@csosa.gov
 pretrialservices.gov,Federal - Executive,Court Services and Offender Supervision Agency,Pretrial Services Agency for the District of Columbia,Washington,DC,PSAITSecurity@csosa.gov
 psa.gov,Federal - Executive,Court Services and Offender Supervision Agency,Court Services and Offender Supervision Agency,Washington,DC,PSAITSecurity@PSA.gov
-dnfsb.gov,Federal - Executive,Defense Nuclear Facilities Safety Board,Defense Nuclear Facilities Safety Board,Washington,DC,cyberalerts@dnfsb.gov
+dnfsb.gov,Federal - Executive,Defense Nuclear Facilities Safety Board,,Washington,DC,cyberalerts@dnfsb.gov
 dra.gov,Federal - Executive,Delta Regional Authority,,Clarksdale,MS,(blank)
 denali.gov,Federal - Executive,Denali Commission,,Anchorage,AK,jherrick@denali.gov
 aiexports.gov,Federal - Executive,Department of Commerce,,Washington,DC,(blank)
@@ -754,7 +754,7 @@ glri.gov,Federal - Executive,Environmental Protection Agency,US EPA Region 5,Chi
 relocatefeds.gov,Federal - Executive,Environmental Protection Agency,,Washington,DC,infosec@epa.gov
 sustainability.gov,Federal - Executive,Environmental Protection Agency,Office of Federal Sustainability,Washington,DC,infosec@epa.gov
 urbanwaters.gov,Federal - Executive,Environmental Protection Agency,,Washington,DC,infosec@epa.gov
-eeoc.gov,Federal - Executive,Equal Employment Opportunity Commission,Equal Employment Opportunity Commission,Washington,DC,vdp.disclosure@eeoc.gov
+eeoc.gov,Federal - Executive,Equal Employment Opportunity Commission,,Washington,DC,vdp.disclosure@eeoc.gov
 abd.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,dl.eop.cloudadmin@eop.gov
 ai.gov,Federal - Executive,Executive Office of the President,Office of Science and Technology Policy,Washington,DC,dl.eop.cloudadmin@eop.gov
 americabydesign.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,dl.eop.cloudadmin@eop.gov
@@ -770,7 +770,7 @@ deregulation.gov,Federal - Executive,Executive Office of the President,Departmen
 doge.gov,Federal - Executive,Executive Office of the President,Department of Government Efficiency,Washington,DC,dl.eop.cloudadmin@eop.gov
 earmarks.gov,Federal - Executive,Executive Office of the President,Office of Management and Budget,Washington,DC,DL.OMB.NetSecurity@omb.eop.gov
 eop.gov,Federal - Executive,Executive Office of the President,Office of Administration,Washington,DC,dl.eop.cloudadmin@eop.gov
-freedom.gov,Federal - Executive,Executive Office of the President,,Washington,DC,(blank)
+freedom.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,(blank)
 greathealthcare.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,(blank)
 itrd.gov,Federal - Executive,Executive Office of the President,Office of Science and Technology Policy,Washington,DC,security@nitrd.gov
 maha.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,dl.eop.cloudadmin@eop.gov
@@ -816,12 +816,12 @@ fdicig.gov,Federal - Executive,Federal Deposit Insurance Corporation,,Arlington,
 fdicoig.gov,Federal - Executive,Federal Deposit Insurance Corporation,,Arlington,DC,NetworkOps@fdic.gov
 myfdic.gov,Federal - Executive,Federal Deposit Insurance Corporation,,Arlington,DC,NetworkOps@fdic.gov
 ofia.gov,Federal - Executive,Federal Deposit Insurance Corporation,,Arlington,DC,NetworkOps@fdic.gov
-fec.gov,Federal - Executive,Federal Election Commission,Federal Election Commission,Washington,DC,FECSec@fec.gov
-ferc.gov,Federal - Executive,Federal Energy Regulatory Commission,Federal Energy Regulatory Commission,Washington,DC,soc@ferc.gov
+fec.gov,Federal - Executive,Federal Election Commission,,Washington,DC,FECSec@fec.gov
+ferc.gov,Federal - Executive,Federal Energy Regulatory Commission,,Washington,DC,soc@ferc.gov
 fhfa.gov,Federal - Executive,Federal Housing Finance Agency,Federal Housing Finance Agency,Washington,DC,domainsecurity@fhfa.gov
 fhfaoig.gov,Federal - Executive,Federal Housing Finance Agency,Federal Housing Finance Agency Office of Inspector General ,Washington,DC,ReportAbuse@fhfaoig.gov
 mortgagetranslations.gov,Federal - Executive,Federal Housing Finance Agency,Federal Housing Finance Agency,Washington,DC,domainsecurity@fhfa.gov
-flra.gov,Federal - Executive,Federal Labor Relations Authority,Federal Labor Relations Authority,Washington,DC,itsec@flra.gov
+flra.gov,Federal - Executive,Federal Labor Relations Authority,,Washington,DC,itsec@flra.gov
 fmc.gov,Federal - Executive,Federal Maritime Commission,Federal Maritime Commission,Washington,DC,oit-maritime@fmc.gov
 adr.gov,Federal - Executive,Federal Mediation and Conciliation Service,Office of Conflict Management and Prevention,Washington,DC,security@fmcs.gov
 fmcs.gov,Federal - Executive,Federal Mediation and Conciliation Service,Federal Mediation and Conciliation Service,Washington,DC,security@fmcs.gov
@@ -1342,4 +1342,6 @@ taxreform.gov,Federal - Legislative,United States House of Representatives,House
 tmdbhouse.gov,Federal - Legislative,United States House of Representatives,House of Representatives,Washington,DC,(blank)
 ushouse.gov,Federal - Legislative,United States House of Representatives,House of Representatives,Washington,DC,richard.martins@mail.house.gov
 ushr.gov,Federal - Legislative,United States House of Representatives,House of Representatives,Washington,DC,richard.martins@mail.house.gov
+fosteringthefuture.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,(blank)
+fosteringthefuturetogether.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,(blank)
 fso.gov,Federal - Executive,Department of State,,Washington,DC,(blank)
