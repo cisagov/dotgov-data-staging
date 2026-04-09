@@ -446,6 +446,7 @@ belmont.gov,City,City of Belmont,,Belmont,CA,is@belmont.gov
 belmont-ma.gov,City,Town of Belmont,,Belmont,MA,rcipriano@belmont-ma.gov
 belmontnh.gov,City,Town of Belmont,,Belmont,NH,support@umbralit.com
 beloitwi.gov,City,City of Beloit,,Beloit,WI,adminnotification@beloitwi.gov
+belpretownshipohio.gov,City,Belpre Township,,Little Hocking,OH,(blank)
 beltonmo.gov,City,CITY OF BELTON,,BELTON,MO,(blank)
 beltontexas.gov,City,"City of Belton, TX",,Belton,TX,it@beltontexas.gov
 belvidereil.gov,City,City of Belvidere,,Bevlvidere,IL,it@boonecountyil.gov
@@ -584,6 +585,7 @@ bloomingprairiemnpd.gov,City,Blooming Prairie Police Department,,Blooming Prairi
 bloomingtonil.gov,City,City of Bloomington,,Bloomington,IL,security@cityblm.org
 bloomingtonmn.gov,City,City of Bloomington,,Bloomington,MN,mjara@bloomingtonmn.gov
 bloomtownshipil.gov,City,Township of Bloom,,Chicago Heights,IL,ncamilli@bloomtownship.org
+bloomvilleohio.gov,City,Village of Bloomville,,BLOOMVILLE,OH,(blank)
 blossomtexas.gov,City,City of Blossom,,Blossom,TX,cityofblossom@blossomtel.com
 blowingrock.gov,City,Town of Blowing Rock,,Blowing Rock,NC,(blank)
 bluefieldwv.gov,City,City of Bluefield,,Bluefield,WV,Security@bluewv.org
@@ -610,6 +612,7 @@ bolingbrook.gov,City,Village of Bolingbrook,,BolingBrook,IL,it@bolingbrook.gov
 boltonct.gov,City,Town of Bolton,,Bolton,CT,kicart@novusinsight.com
 bolton-ma.gov,City,Bolton Police Department,,Bolton,MA,kbarry@bolton-ma.gov
 boltonny.gov,City,Town of Bolton,,Bolton Landing,NY,(blank)
+bombayny.gov,City,Bombay,,Bombay,NY,(blank)
 bonneylake.gov,City,City of Bonney Lake,,Bonney Lake,WA,mcewenc@ci.bonney-lake.wa.us
 bonneytexas.gov,City,Village of Bonney,,Bonney,TX,citysecretary@bonneytexas.gov
 booneiowa.gov,City,City of Boone,,Boone,IA,security@booneiowa.gov
@@ -1011,6 +1014,7 @@ cerritos.gov,City,City of Cerritos,,Cerritos,CA,iarrayga@cerritos.us
 cgaz.gov,City,City of Casa Grande,,Casa Grande,AZ,soc@casagrandeaz.gov
 chaddsfordpa.gov,City,Chadds Ford Township,,Chadds Ford,PA,info@chaddsfordpa.gov
 chagrinfallsoh.gov,City,Village of Chagrin Falls,,Village of Chagrin Falls,OH,(blank)
+chagrinfallspdoh.gov,City,Village of Chagrin Falls,,Chagrin Falls,OH,(blank)
 chambersburgpa.gov,City,Borough of Chambersburg,,Chambersburg,PA,adminit@chambersburgpa.gov
 chambleega.gov,City,City of Chamblee,,Chamblee,GA,(blank)
 champaign-il.gov,City,City of Champaign,,Champaign,IL,it@champaignil.gov
@@ -1402,6 +1406,7 @@ cityoflaportein.gov,City,City of La Porte,,La Porte,IN,lpcityit@cityoflaportein.
 cityoflaprairiemn.gov,City,City of LaPrairie,,LaPrairie,MN,(blank)
 cityoflapwai.gov,City,City of Lapwai,,Lapwai,ID,(blank)
 cityoflaramie.gov,City,City of Laramie,,Laramie,WY,(blank)
+cityoflavacaar.gov,City,City of Lavaca,,Lavaca,AR,(blank)
 cityofleonardnd.gov,City,City of Leonard,,Leonard,ND,(blank)
 cityoflesueur.gov,City,City of Le Sueur,,Le Sueur,MN,(blank)
 cityoflewistownil.gov,City,City of Lewistown Illinois,,Lewistown,IL,(blank)
@@ -1426,6 +1431,7 @@ cityofmargaretalabama.gov,City,City of Margaret,,ODENVILLE,AL,dona@adrbms.com
 cityofmarionia.gov,City,City of Marion,,Marion,IA,helpdesk@cityofmarion.org
 cityofmarionil.gov,City,City of Marion,,Marion,IL,cmoake@cityofmarionil.gov
 cityofmarionwi.gov,City,CITY OF MARION,,MARION,WI,(blank)
+cityofmascoutah.gov,City,City of Mascoutah,,Mascoutah,IL,(blank)
 cityofmattawa-wa.gov,City,City of Mattawa,,Mattawa,WA,(blank)
 cityofmaysvilleky.gov,City,City of Maysville,,Maysville,KY,sgeorge@courika.com
 cityofmaywoodparkor.gov,City,City of Maywood Park,,Maywood Park,OR,office@cityofmaywoodpark.com
@@ -1492,12 +1498,14 @@ cityofocillaga.gov,City,City of Ocilla,,Ocilla,GA,(blank)
 cityofocontowi.gov,City,City of Oconto,,Oconto,WI,admin@cityofocontowi.gov
 cityofoldmonroe.gov,City,City of Old Monroe,,Old Monroe,MO,(blank)
 cityofolean.gov,City,City of Olean,,Olean,NY,(blank)
+cityofoliverga.gov,City,"City of Oliver City Hall, Police Department and Municipal Court",,Oliver,GA,(blank)
 cityofomahaarkansas.gov,City,City of Omaha,,Omaha,AR,(blank)
 cityofomaha-ne.gov,City,Douglas Omaha Technology Commission,,Omaha,NE,itsecurity@dotcomm.org
 cityofoneontany.gov,City,City of Oneonta,,Oneonta,NY,(blank)
 cityofoppal.gov,City,"The City of Opp, AL",,Opp,AL,(blank)
 cityoforchardtx.gov,City,City of Orchard,,Orchard,TX,(blank)
 cityoforinda.gov,City,City Of Orinda,,Orinda,CA,(blank)
+cityoforofino.gov,City,City of Orofino Police Department,,Orofino,ID,(blank)
 cityoforrick.gov,City,City of Orrick,,Orrick,MO,(blank)
 cityofowasso.gov,City,City of Owasso,,Owasso,OK,(blank)
 cityofowenwi.gov,City,"City of Owen, WI",,Owen,WI,(blank)
@@ -1551,6 +1559,7 @@ cityofringgoldga.gov,City,City of Ringgold,,Ringgold,GA,(blank)
 cityofrobertsidaho.gov,City,City of Roberts,,Roberts,ID,cityofroberts.clerk@gmail.com
 cityofrochester.gov,City,City Of Rochester,,Rochester,NY,itsec-incidents@cityofrochester.gov
 cityofrockhillsc.gov,City,City of Rock Hill,,Rock Hill,SC,tony.nedbal@cityofrockhillsc.gov
+cityofrockwoodtn.gov,City,City of Rockwood,,Rockwood,TN,(blank)
 cityofrockyfordco.gov,City,City of Rocky Ford,,Rocky Ford,CO,(blank)
 cityofrogerstx.gov,City,City of Rogers,,Rogers,TX,cityadmin@CityofRogers.onmicrosoft.com
 cityofroncevertewv.gov,City,City of Ronceverte,,Ronceverte,WV,pmentz@cityofronceverte.com
@@ -1585,7 +1594,7 @@ cityofsouthport.gov,City,City of Southport,,Southport,NC,(blank)
 cityofspartanburg-sc.gov,City,City of Spartanburg,,Spartanburg,SC,(blank)
 cityofspearvilleks.gov,City,CITY OF SPEARVILLE,,Spearville,KS,(blank)
 cityofspoonerwi.gov,City,City of Spooner,,Spooner,WI,(blank)
-cityofspringboro.gov,City,City of Springboro,,Springboro,OH,(blank)
+cityofspringboro.gov,City,City of Springboro,,Springboro,OH,matt@cityofspringboro.com
 cityofstboni.gov,City,City of St. Bonifacius,,St. Bonifacius,MN,(blank)
 cityofstcharlesmn.gov,City,City of St. Charles,,Saint Charles,MN,(blank)
 cityofstclairmi.gov,City,City of St. Clair,,St. Clair,MI,(blank)
@@ -1643,6 +1652,7 @@ cityofwiggins.gov,City,City of Wiggins,,Wiggins,MS,(blank)
 cityofwilliamsonwv.gov,City,City of Williamson,,Williamson,WV,(blank)
 cityofwindyhillsky.gov,City,City of Windy Hills,,Windy Hills,KY,(blank)
 cityofwinonamo.gov,City,City of Winona ,,WINONA,MO,chiefofpolice@winonamo.org
+cityofwinston.gov,City,City of Winston,,Winston,OR,(blank)
 cityofwoodburyga.gov,City,City of Woodbury,,Woodbury,GA,(blank)
 cityofwooddaleil.gov,City,City of Wood Dale,,Wood Dale,IL,support@wooddale.com
 cityofwoodland.gov,City,City of Woodland,,Woodland,CA,IT-Admin@cityofwoodland.org
@@ -2048,6 +2058,7 @@ deerrivercity.gov,City,City of Deer River,,DEER RIVER,MN,(blank)
 deforestwi.gov,City,Village of DeForest,,DeForest,WI,security@vi.deforest.wi.us
 dekorra-wi.gov,City,Town of Dekorra Wisconsin,,Poynette,WI,support@townweb.com
 delafieldpolice.gov,City,City of Delafield Police,,Delafield,WI,police@ci.delafield.wi.us
+delandfl.gov,City,City of DeLand,,DeLand,FL,codsupport@deland.org
 delanomn.gov,City,City of Delano,,Delano,MN,phartwig@logis.org
 delawarecityohmunicipalcourt.gov,City,Delaware Municipal Court,,Delaware,OH,(blank)
 delawaretownshippa.gov,City,Delaware Township,,Dingmans Ferry,PA,(blank)
@@ -2441,6 +2452,7 @@ fairfieldmt.gov,City,Town of Fairfield,,Fairfield,MT,jamesk@schoolhouseit.com
 fairfieldny.gov,City,Town of Fairfield,,NY,NY,JennyAnn488@gmail.com
 fairfieldoh.gov,City,City of Fairfield Ohio,,Fairfield,OH,(blank)
 fairfieldtexas.gov,City,"City of Fairfield, TX",,Fairfield,TX,tech@fairfieldtexas.gov
+fairfieldtownshipbcoh.gov,City,Fairfield Township (Buttler County Ohio),,Fairfield Township,OH,(blank)
 fairfieldtownshipnj.gov,City,Fairfield Township,,Fairfield,NJ,support@quikteks.com
 fairfieldtown-ut.gov,City,Fairfield Town,,Lehi,UT,(blank)
 fairfieldtwplenaweemi.gov,City,Fairfield Township,,Jasper,MI,fairfieldtownshipclerk.mi@gmail.com
@@ -2495,6 +2507,7 @@ farmvillenc.gov,City,Town of Farmville,,Farmville,NC,(blank)
 farmvilleva.gov,City,"Town of Farmville,Virginia",,Farmville,VA,aaustin@farmvilleva.com
 farrwestcity.gov,City,Farr West City,,Farr West city,UT,(blank)
 fatetx.gov,City,City of Fate,,Fate,TX,(blank)
+fayaltownshipmn.gov,City,Town of Fayal,,Eveleth,MN,(blank)
 fayettemopd.gov,City,"City of Fayette, MO",,Fayette,MO,administrator@cityoffayettemo.com
 fayetteutah.gov,City,Fayette Town of,,Fayette,UT,(blank)
 fayetteville-ar.gov,City,City of Fayetteville,,Fayetteville,AR,bfulmer@fayetteville-ar.gov
@@ -2608,6 +2621,7 @@ fountainhillsaz.gov,City,Town of Fountain Hills,,Fountain Hills,AZ,abuse@fountai
 fountainvalley.gov,City,Fountain Valley,,Fountain Valley,CA,ITSupport@fountainvalley.org
 fowlerco.gov,City,Town of Fowler,,Fowler,CO,(blank)
 fowlerny.gov,City,Town of Fowler,,Gouverneur,NY,(blank)
+foxboroughfire.gov,City,Foxborough Fire Department,,Foxborough,MA,(blank)
 foxboroughma.gov,City,Town of Foxborough,,Foxborough,MA,goncalvesd@foxborough.k12.ma.us
 foxboroughpolice.gov,City,Foxborough Police Department,,Foxborough,MA,(blank)
 foxcrossingwi.gov,City,Village of Fox Crossing,,Neenah,WI,is@foxcrossingwi.gov
@@ -2689,6 +2703,7 @@ fruitlandia.gov,City,City of Fruitland Iowa,,Fruitland,IA,techs@reliablenetworks
 fruitlandmi.gov,City,Fruitland Township,,Whitehall,MI,support@itright.com
 fruitporttownship-mi.gov,City,Fruitport Charter Township,,Fruitport,MI,(blank)
 fspd-la.gov,City,Village of French Settlement Police Department,,French Settlement,LA,support@client-tech.com
+ftlaramie.gov,City,Town of Fort Laramie,,Fort Laramie,WY,(blank)
 fullertonca.gov,City,City of Fullerton,,Fullerton,CA,email.security@cityoffullerton.com
 fullertonne.gov,City,City of Fullerton,,Fullerton,NE,pattyn@fullertonne.gov
 fulsheartexas.gov,City,City of Fulshear,,Fulshear,TX,(blank)
@@ -3057,6 +3072,7 @@ harlowtonmt.gov,City,City of Harlowton,,Harlowton,MT,(blank)
 harmartownship-pa.gov,City,Harmar Township,,Freeport,PA,admin@harmartownship-pa.gov
 harmonymn.gov,City,City of Harmony,,Harmony,MN,cityoffice@harmonymn.gov
 harmonyny.gov,City,Town of Harmony,,Ashville,NY,townclerk@harmonyny.gov
+harmonytownshipclarkoh.gov,City,Harmony Township,,South Vienna,OH,(blank)
 harmonytwp-nj.gov,City,Harmony Township,,Phillipsburg,NJ,(blank)
 harpersvilleal.gov,City,Town of Harpersville,,Harpersville,AL,allen@freshmanagedit.com
 harrietstown.gov,City,Town of Harrietstown,,Saranac Lake,NY,(blank)
@@ -3390,6 +3406,7 @@ imperialne.gov,City,City of Imperial,,Imperial,NE,(blank)
 independenceia.gov,City,City of Independence,,Independence,IA,website@independenceia.org
 independenceks.gov,City,"City of Independence, Kansas",,Independence,KS,(blank)
 independencemo.gov,City,City of Independence Missouri,,Independence,MO,cajohnson@indepmo.org
+independenceor.gov,City,City of Independence,,Independence,OR,(blank)
 independenceut.gov,City,Town of Independence,,Heber,UT,(blank)
 indiahoma.gov,City,Town of Indiahoma,,Indiahoma,OK,(blank)
 indianapolis-in.gov,City,"Information Services Agency, City of Indianapolis/ Marion County",,Indianapolis,IN,(blank)
@@ -3587,7 +3604,7 @@ kennesaw-ga.gov,City,City of Kennesaw,,Kennesaw,GA,kitbilling@kennesaw-ga.gov
 kenockeetownshipmi.gov,City,Kenockee Township,,Avoca,MI,kps@shumakergroup.com
 kensettar.gov,City,City of Kensett,,Kensett,AR,(blank)
 kensingtonnh.gov,City,Town of Kensington,,Kensington,NH,(blank)
-kensingtonpdnh.gov,City,Town of Kensington,,Kensington,NH,(blank)
+kensingtonpdnh.gov,City,Town of Kensington Police Department,,Kensington,NH,(blank)
 kentohio.gov,City,City of Kent,,Kent,OH,itc@kent-ohio.org
 kentwa.gov,City,City of Kent,,Kent,WA,KentWASecurityPOC@kentwa.gov
 kermittx.gov,City,City of Kermit,,Kermit,TX,zfitzgerald@ctsinet.com
@@ -3678,7 +3695,7 @@ lajoyatx.gov,City,City of La Joya,,La Joya,TX,info@lajoyatx.gov
 lakeandrewtwp.gov,City,Town of Lake Andrew,,Spicer,MN,clerk@lakeandrewtwp.gov
 lakearthurnm.gov,City,Town of Lake Arthur,,Lake Arthur,NM,management@ravigatechnologies.com
 lakecityflpd.gov,City,Lake City Police Department,,Lake City,FL,(blank)
-lakecitysc.gov,City,City of Lake City,,Lake City,SC,pio@cityoflakecity.org
+lakecitysc.gov,City,City of Lake City,,Lake City,SC,it@cityoflakecity.org
 lakedeltonwi.gov,City,VILLAGE OF LAKE DELTON,,LAKE DELTON,WI,clerk@lakedelton.org
 lakeelmo.gov,City,City of Lake Elmo,,Lake Elmo,MN,(blank)
 lakeforestca.gov,City,City of Lake Forest,,Lake Forest,CA,colfhelpdesk@abtechtechnologies.com
@@ -3967,7 +3984,7 @@ longviewtx.gov,City,"City of Longview, TX",,Longview,TX,(blank)
 lorenatx.gov,City,City of Lorena Texas,,Lorena,TX,(blank)
 losaltosca.gov,City,City of Los Altos,,Los Altos,CA,itadmin@losaltosca.gov
 losbanos.gov,City,City of Los Banos,,Los Banos,CA,(blank)
-losfresnostx.gov,City,`City of Los Fresnos,,Los Fresnos,TX,(blank)
+losfresnostx.gov,City,`City of Los Fresnos,,Los Fresnos,TX,mmilum@losfresnostx.gov
 losgatosca.gov,City,Town of Los Gatos,,Los Gatos,CA,skim@losgatosca.gov
 loslunasnm.gov,City,Village of Los Lunas,,Los Lunas,NM,support@loslunasnm.gov
 losranchosnm.gov,City,Village of Los Ranchos de Albuquerque,,Los Ranchos de Albuquerque,NM,tsilva@losranchosnm.gov
@@ -4319,7 +4336,7 @@ middleburghtown-ny.gov,City,Town of Middleburgh,,Middleburgh,NY,(blank)
 middleburgoh.gov,City,The City of Middleburg Heights,,Middleburg Heights,OH,(blank)
 middleburgva.gov,City,Town of Middleburg,,Middleburg,VA,customercare@vtg.biz
 middleburypdct.gov,City,Middlebury Police Department,,Middlebury,CT,(blank)
-middlefield-ma.gov,City,"Town of Middlefield, MA",,MIDDLEFIELD,MA,(blank)
+middlefield-ma.gov,City,"Town of Middlefield, MA",,MIDDLEFIELD,MA,middlefield.webmaster@gmail.com
 middlefieldny.gov,City,Town of Middlefield NY,,Cooperstown,NY,(blank)
 middleportny.gov,City,Village of Middleport,,Middleport,NY,(blank)
 middlesexboro-nj.gov,City,Middlesex Borough,,Middlesex,NJ,it@middlesexboro-nj.gov
@@ -4513,6 +4530,7 @@ mountainhomear.gov,City,City of Mountain Home,,Mountain Home,AR,(blank)
 mountainhouseca.gov,City,City of Mountain House,,Mountain House,CA,(blank)
 mountainiron.gov,City,City of Mountain Iron,,Mountain Iron,MN,(blank)
 mountainlakes.gov,City,Borough of Mountain Lakes,,Mountain Lakes,NJ,(blank)
+mountainpinear.gov,City,City Of Mountain Pine,,Mountain Pine,AR,(blank)
 mountainview.gov,City,City of Mountain View,,Mountain View,CA,roger.jensen@mountainview.gov
 mountainviewmo.gov,City,"City of Mountain View - Mountain View, MO",,Mountain View,MO,(blank)
 mountainviewok.gov,City,Town of Mountain View,,Mountain View,OK,(blank)
@@ -4559,6 +4577,7 @@ mulberryar.gov,City,City of Mulberry,,Mulberry,AR,shurley@mulberryar.gov
 mulberryfirear.gov,City,City of Mulberry,,Mulberry,AR,sgregory@mulberryar.gov
 mulberryga.gov,City,City of Mulberry,,Dacula,GA,securitysupport@interdev.com
 mulberrypolicear.gov,City,City of Mulberry,,Mulberry,AR,sgregory@mulberryar.gov
+muldrowok.gov,City,Town of Muldrow,,Muldrow,OK,(blank)
 mullett-townshipmi.gov,City,Mullett Township,,Topinabee,MI,kps@shumakergroup.com
 mundelein-il.gov,City,Village of Mundelein,,Mundelein,IL,(blank)
 mundytwp-mi.gov,City,Charter Township of Mundy,,Swartz Creek,MI,chad.young@mundytwp-mi.gov
@@ -4759,7 +4778,7 @@ nimishillentownship.gov,City,NIMISHILLEN TOWNSHIP,,LOUISVILLE,OH,(blank)
 ninetysixsc.gov,City,Town of Ninety Six,,Ninety SIX,SC,larry@rampartcio.com
 ninnekahok.gov,City,Town of Ninnekah,,NINNEKAH,OK,a.wynn@ninnekahok.gov
 niskayuna.gov,City,Town of Niskayuna,,Niskayuna,NY,(blank)
-nissequogueny.gov,City,Village of Nissequogue,,St. James,NY,(blank)
+nissequogueny.gov,City,Village of Nissequogue,,St. James,NY,george@dntechnology.com
 nixamo.gov,City,City of Nixa,,Nixa,MO,lwilkerson@nixa.com
 nnva.gov,City,City of Newport News,,Newport News,VA,it-security@nnva.gov
 nobleokpd.gov,City,Noble Police Department,,Noble,OK,(blank)
@@ -5078,6 +5097,7 @@ palisadesparknj.gov,City,Borough of Palisades Park,,Palisades Park,NJ,rstern@pal
 palmbayfl.gov,City,City of Palm Bay,,Palm Bay,FL,NetworkOperations@palmbayflorida.org
 palmcoast.gov,City,City of Palm Coast,,Palm Coast,FL,itapps@palmcoastgov.comt
 palmdesert.gov,City,City of Palm Desert,,Palm Desert,CA,rsantos@palmdesert.gov
+palmerpa.gov,City,Palmer Township,,Palmer,PA,(blank)
 palmertx.gov,City,CIty of Palmer,,Palmer,TX,(blank)
 palmettobay-fl.gov,City,Village of Palmetto Bay,,Palmetto Bay,FL,it@palmettobay-fl.gov
 palmsprings-ca.gov,City,City of Palm Springs,,Palm Springs,CA,(blank)
@@ -5295,6 +5315,7 @@ pittsvillewi.gov,City,City of Pittsville,,PITTSVILLE,WI,cofpitts@tds.net
 plaincityohio.gov,City,Village of Plain City,,Plain City,OH,village@plaincityohio.gov
 plaincityutah.gov,City,Plain City Utah,,Plain City,UT,(blank)
 plainfieldil.gov,City,Village of Plainfield,,Plainfield,IL,security@goplainfield.com
+plainfieldnh.gov,City,"Town of Plainfield, NH",,Plainfield,NH,(blank)
 plainfieldnj.gov,City,City Of Plainfield,,Plainfield,NJ,communications@plainfieldnj.gov
 plainfieldpolicenj.gov,City,Plainfield Police Department,,Plainfield,NJ,it@plainfieldpolice.com
 plainfieldvt.gov,City,"Town of Plainfield, VT",,Plainfield,VT,website@plainfieldvt.gov
@@ -5962,10 +5983,12 @@ senecafalls.gov,City,"Town of Seneca Falls, NY",,Seneca Falls,NY,(blank)
 senecail.gov,City,Village of Seneca,,Seneca,IL,(blank)
 senecailpd.gov,City,Seneca Police Department,,Seneca,IL,security@senecailpd.gov
 sennettny.gov,City,Town of Sennett,,Auburn,NY,(blank)
+senoia.gov,City,City of Senoia,,Senoia,GA,(blank)
 sequimwa.gov,City,City of Sequim,,SEQUIM,WA,it_dept@sequimwa.gov
 seranj.gov,City,Sayreville Economic and Redevelopment Agency,,Sayreville,NJ,himshah@sayreville.com
 sevendevilsnc.gov,City,Town of Seven Devils,,Seven Devils,NC,parksandrec@sevendevils.net
 sevenspringsborough-pa.gov,City,Seven Springs Borough,,Seven Springs,PA,(blank)
+sewardak.gov,City,City of Seward,,Seward,AK,(blank)
 sewardtown-ny.gov,City,Town of Seward,,Cobleskill,NY,(blank)
 sewickleytownshipconstables.gov,City,State Constables Offices Sewickley Township CWOPA,,Irwin,PA,security@sewickleytownshipconstables.gov
 sf.gov,County,City and County of San Francisco,,San Francisco,CA,cyberdefense@sfgov.org
@@ -6013,6 +6036,7 @@ shermanironcowi.gov,City,Town of Sherman - Iron County,,Park Falls,WI,(blank)
 shermanms.gov,City,Town of Sherman,,Sherman,MS,shermanpolice@comcast.net
 shermanny.gov,City,Village of Sherman,,Sherman,NY,village.sherman@gmail.com
 shermanshebcowi.gov,City,Town of Sherman,,Adell,WI,(blank)
+shermantownshipoh.gov,City,Sherman Township,,Monroeville,OH,(blank)
 shermantwphuronmi.gov,City,Sherman Township,,Rush,MI,kps@shumakergroup.com
 sherrillny.gov,City,City of Sherrill,,SHERRILL,NY,(blank)
 sherwoodar.gov,City,City of Sherwood,,Sherwood,AR,(blank)
@@ -6109,6 +6133,7 @@ solvayny.gov,City,Village of Solvay,,Solvay,NY,(blank)
 solwaytownship-mn.gov,City,Solway Township,,Cloquet,MN,(blank)
 somersct.gov,City,Town of Somers,,Somers,CT,help@suzorit.com
 somersetny.gov,City,Town of Somerset,,Barker,NY,(blank)
+somersettownshipmi.gov,City,Somerset Township,,Somerset Center,MI,(blank)
 somersettx.gov,City,City of Somerset,,Somerset,TX,(blank)
 somersny.gov,City,Town of Somers,,Somers,NY,(blank)
 somerswi.gov,City,Village of Somers,,Kenosha,WI,(blank)
@@ -6464,7 +6489,6 @@ teaguepdtx.gov,City,Teague Police Department,,Teague,TX,policechief@cityofteague
 teanecknj.gov,City,Township Of Teaneck,,Teaneck,NJ,security@teanecknj.gov
 tecumsehmi.gov,City,City of Tecumseh,,Tecumseh,MI,anthony@creekenterprise.com
 tegacaysc.gov,City,City of Tega Cay,,Tega Cay,SC,jbroome@tegacaysc.gov
-telluride-co.gov,City,Town of Telluride,,Telluride,CO,dns.tech@telluride-co.gov
 telluride.gov,City,Town of Telluride,,Telluride,CO,registration@telluride-co.gov
 temeculaca.gov,City,City of Temecula,,Temecula,CA,Alerts@temeculaca.gov
 tempe.gov,City,City of Tempe,,Tempe,AZ,scott_campbell@tempe.gov
@@ -6598,6 +6622,7 @@ townofausableny.gov,City,Town of Ausable,,Keeseville,NY,(blank)
 townofavonwi.gov,City,Town of Avon,,Brodhead,WI,chairperson@townofavonwi.gov
 townofaynor.gov,City,Town of Aynor,,Aynor,SC,(blank)
 townofbabylonny.gov,City,Town of Babylon,,Lindenhurst,NY,abaranowski@townofbabylon.com
+townofbaileytonal.gov,City,Town of Baileyton,,Baileyton,AL,(blank)
 townofbainbridgeny.gov,City,Town of Bainbridge,,Bainbridge,NY,(blank)
 townofballstonny.gov,City,Town of Ballston,,Ballston Spa,NY,(blank)
 townofbalsamlakewi.gov,City,Town of Balsam Lake,,Balsam Lake,WI,bltownclerk@gmail.com
@@ -6671,6 +6696,7 @@ townofcarl.gov,City,Town of Carl,,Auburn,GA,(blank)
 townofcarltonny.gov,City,Town of Carlton,,Albion,NY,(blank)
 townofcarmelny.gov,City,Town of Carmel,,Mahopac,NY,KJK@townofcarmleny.gov
 townofcarrboronc.gov,City,"Town of Carrboro, NC",,Carrboro,NC,avogel@carrboronc.gov
+townofcarrollnh.gov,City,Town of Carroll,,Carroll,NH,(blank)
 townofcarrollny.gov,City,"Town of Carroll - Frewsburg, NY",,Frewsburg,NY,(blank)
 townofcarrolltonmo.gov,City,Town of Carrollton,,Carrollton,MO,gk@660tech.com
 townofcarthagetn.gov,City,Town of Carthage,,Carthage,TN,mayorbabcock@townofcarthagetn.com
@@ -6861,7 +6887,7 @@ townofhazelhurst.gov,City,Town of Hazelhurst,,Hazelhurst,WI,(blank)
 townofherman-wi.gov,City,"Town of Herman, Dodge County",,Iron Ridge,WI,townherman@nconnect.net
 townofhighlandny.gov,City,Town of Highland,,Eldred,NY,sct_noc_alerts@securecloudco.com
 townofhinsdaleny.gov,City,Town of Hinsdale,,Hinsdale,NY,(blank)
-townofhobgood.gov,City,Town of Hobgood,,Hobgood,NC,(blank)
+townofhobgood.gov,City,Town of Hobgood,,Hobgood,NC,renee.ellis@hobgood.nc.gov
 townofhollandny.gov,City,TOWN OF HOLLAND,,Holland,NY,(blank)
 townofhollandwi.gov,City,Town of Holland,,Holmen,WI,security@townofhollandwi.gov
 townofhollyco.gov,City,TOWN OF HOLLY,,HOLLY,CO,clerk@townofholly.com
@@ -7307,6 +7333,7 @@ troyny.gov,City,"City of Troy, NY",,Troy,NY,helpdesk@troyny.gov
 troyohio.gov,City,"City of Troy, Ohio",,Troy,OH,(blank)
 troypolicemo.gov,City,Troy Missouri Police Department,,Troy,MO,sbrown@troypolicemo.gov
 troytn.gov,City,Town of Troy,,TROY,TN,john@lifelinevoice.com
+troytwpwoodoh.gov,City,Troy Township,,Luckey,OH,(blank)
 troytx.gov,City,City of Troy,,Troy,TX,jeanine@cityoftroy.us
 troyvt.gov,City,Town of Troy,,North Troy,VT,(blank)
 troywalworthwi.gov,City,Town of Troy,,East Troy,WI,deputy@troywalworthwi.gov
@@ -7526,6 +7553,7 @@ villageofdexterny.gov,City,Village of Dexter,,Dexter,NY,(blank)
 villageofdolgeville.gov,City,Village of Dolgeville,,Dolgeville,NY,akraszewski@villageofdolgeville.gov
 villageofdousman.gov,City,Village of Dousman,,Dousman,WI,(blank)
 villageofdunlap-il.gov,City,Village of Dunlap,,Dunlap,IL,(blank)
+villageofdurandil.gov,City,Village of Durand,,Durand,IL,(blank)
 villageofeastaltonil.gov,City,Village of East Alton,,East Alton,IL,security@villageofeastaltonil.gov
 villageofeastnassau.gov,City,Village of East Nassau,,East Nassau,NY,(blank)
 villageofeastsyracuse.gov,City,VILLAGE OF EAST SYRACUSE,,EAST SYRACUSE,NY,(blank)
@@ -7646,7 +7674,7 @@ villageofpennyan.gov,City,Village of Penn Yan,,Penn Yan,NY,(blank)
 villageofperrinton.gov,City,Village of Perrinton,,Perrinton,MI,(blank)
 villageofperryny.gov,City,Village of Perry,,Perry,NY,(blank)
 villageofpewaukeewi.gov,City,Village of Pewaukee,,Pewaukee,WI,villagehall@villageofpewaukeewi.gov
-villageofphelpsny.gov,City,Village of Phelps New York,,Phelps,NY,(blank)
+villageofphelpsny.gov,City,Village of Phelps New York,,Phelps,NY,vpclerk@villageofphelpsny.gov
 villageofphoenix-ny.gov,City,Village of Phoenix,,Phoenix,NY,helpdesk@cnyric.org
 villageofpittsfordny.gov,City,Village of Pittsford,,Pittsford,NY,(blank)
 villageofplainfieldwi.gov,City,Village of Plainfield,,Plainfield,WI,(blank)
@@ -7909,6 +7937,7 @@ wellingtonfl.gov,City,Village of Wellington,,Wellington,FL,itbilling@wellingtonf
 wellingtonohiopolice.gov,City,Village of Wellington Police Department,,Wellington,OH,(blank)
 wellingtontownshipohio.gov,City,Wellington Township,,Wellington,OH,(blank)
 wellingtonutah.gov,City,Wellington City,,Wellington,UT,(blank)
+wellsboropa.gov,City,Borough of Wellsboro,,Wellsboro,PA,(blank)
 wellsburgwvpd.gov,City,Wellsburg Police Department,,Wellsburg,WV,Micah.knisley@cityofwellsburg.us
 wellsny.gov,City,Town of Wells,,Wells,NY,(blank)
 wellstonok.gov,City,Town of Wellston,,Wellston,OK,administrator@townofwellstonok.com
@@ -8411,6 +8440,7 @@ detourmi.gov,City - Election,DeTour Village,,DeTour Village,MI,(blank)
 dovertwp-otsegomi.gov,City - Election,Dover Township,,Gaylord,MI,clerk@dovertwp-otsegomi.gov
 eaglesnestmn.gov,City - Election,Township of Eagles Nest,,Ely,MN,(blank)
 eastgreenwichri.gov,City - Election,Town Of East Greenwich,,East Greenwich,RI,(blank)
+edenvilletwpmi.gov,City - Election,Edenville Township,,Edenville,MI,(blank)
 ehtnj.gov,City - Election,Township of Egg Harbor,,Egg Harbor Township,NJ,snewsome@ehtgov.org
 elkonewmarketmn.gov,City - Election,City of Elko New Market,,Elko New Market,MN,(blank)
 elleryny.gov,City - Election,Town of Ellery,,Bemus Point,NY,(blank)
@@ -8899,7 +8929,7 @@ calcasieu911.gov,County,Calcasieu Parish 911,,Lake Charles,LA,mrachal@calcasieu-
 calcasieu.gov,County,Calcasieu Parish Government,,Lake Charles,LA,security@calcasieu.gov
 calcasieusheriff.gov,County,Calcasieu Parish Sheriff's Office,,Lake Charles,LA,cis_security@cpso.com
 calhounalsheriff.gov,County,Calhoun County Sheriff’s Office,,Anniston,AL,techadmin@calcoso.org
-calhouncolibraryfl.gov,County,Calhoun County Public Library,,Blountstown,FL,(blank)
+calhouncotx.gov,County,Calhoun County Texas,,Port Lavaca,TX,support@calhouncotx.org
 calhouncountyal.gov,County,Calhoun County Commission,,Anniston,AL,dshetter@calhouncounty.org
 calhouncountyfl.gov,County,Calhoun County,,Blountstown,FL,itsecurity@calhouncountygov.com
 calhouncountyflsheriff.gov,County,Calhoun County Sheriff's Office,,Blountstown,FL,bbass@calhouncountyflsheriff.gov
@@ -9176,7 +9206,7 @@ custercounty-co.gov,County,Custer County Colorado,,Westcliffe,CO,vernon@custerco
 custercountymt.gov,County,Custer County Montana,,Miles City,MT,k.krausz@co.custer.mt.us
 custercountymttransit.gov,County,Custer County Montana Transit,,Miles City,MT,k.krausz@co.custer.mt.us
 custercountyne.gov,County,Custer County,,Broken Bow,NE,support@appliedconnective.com
-cuyahogacounty.gov,County,Cuyahoga County,,Cleveland,OH,security@cuyahogacounty.us
+cuyahogacounty.gov,County,Cuyahoga County,,Cleveland,OH,itsecurity@cuyahogacounty.us
 cuyahogahealth.gov,County,Cuyahoga County Board of Health,,Cleveland,OH,domains@letternine.net
 cuyahogaprosecutor.gov,County,Cuyahoga County Prosecutor's Office,,Cleveland,OH,ccpoinformationservices@prosecutor.cuyahogacounty.us
 dadecounty-ga.gov,County,Dade County Georgia,,Trenton,GA,djones@dadecounty-ga.gov
@@ -9185,6 +9215,7 @@ daggettcounty.gov,County,Daggett County,,Manila,UT,itdepartment@daggettcounty.or
 dakotacountymn.gov,County,Dakota County,,Hastings,MN,david.senn@co.dakota.mn.us
 dalecountyal.gov,County,Dale County,,Ozark,AL,admin@harlowmedia.com
 daleso.gov,County,Dale County Sheriff’s Office,,Ozark,AL,(blank)
+dallascosoar.gov,County,Dallas County Sheriff's Office,,FORDYCE,AR,(blank)
 dallascountyiowa.gov,County,Dallas County Iowa,,Adel,IA,(blank)
 dallascountymo-oem.gov,County,Dallas County Emergency Management,,Buffalo,MO,(blank)
 dallascowateral.gov,County,Dallas County Water & Sewer Authority,,Selma,AL,(blank)
@@ -9647,7 +9678,7 @@ humphreyscountytn.gov,County,Humphreys County Government,,Waverly,TN,networksupp
 humphreystnsheriff.gov,County,Humphreys County Sheriffs Office,,Waverly,TN,webmaster@humphreystnsheriff.gov
 huntingdoncountypa.gov,County,Huntingdon County Government,,Huntingdon,PA,(blank)
 huroncounty-oh.gov,County,Huron County Commissioners,,Norwalk,OH,(blank)
-hutchinsoncountysd.gov,County,Hutchinson County Courthouse,,Olivet,SD,(blank)
+hutchinsoncountysd.gov,County,Hutchinson County Courthouse,,Olivet,SD,billingaccount@hutchinsoncounty.org
 hydecountync.gov,County,Hyde County Local Govt.,,Swanquarter,NC,dshumate@hydecountync.gov
 hydehealthnc.gov,County,Hyde County Health Department,,Swan Quarter,NC,(blank)
 ibervilleoep.gov,County,Iberville Parish Office of Emergency Preparedness,,Plaquemine,LA,ibervilleoep@tks.la
@@ -9857,6 +9888,7 @@ leavenworthcounty.gov,County,Leavenworth County Kansas,,Leavenworth,KS,administr
 lebanoncountypa.gov,County,Lebanon County,,Lebanon,PA,itssecurity@lebanoncountypa.gov
 leecosheriffal.gov,County,Lee County Sheriff's Office,,Opelika,AL,communityrelations@leecountysheriff.org
 leecountyalcoroner.gov,County,Office of Lee County Coroner,,Opelika,AL,(blank)
+leecountyal.gov,County,Lee County Commission,,Opelika,AL,scooper@leeco.us
 leecountyar.gov,County,Lee County,,Marianna,AR,(blank)
 leecountyclerkar.gov,County,Lee County Clerk,,Marianna,AR,(blank)
 lee-county-fl.gov,County,Lee County Government,,Fort Myers,FL,komalley@leegov.com
@@ -10347,7 +10379,6 @@ pikecoclerkky.gov,County,Pike County Clerk,,Pikeville,KY,(blank)
 pikecoga.gov,County,"Pike County, GA",,Zebulon,GA,help@wiredtech.net
 pikecountygasheriff.gov,County,"Pike County, GA Sheriff's Office",,Zebulon,GA,help@wiredtech.net
 pikecountyil.gov,County,County of Pike,,Pittsfield,IL,jr@tigerhawktech.com
-pikecountyky.gov,County,Pike County Fiscal Court,,Pikeville,KY,(blank)
 pikecounty-mo.gov,County,Pike County Missouri,,Bowling Green,MO,Devon@McClainLLC.com
 pikecountyms.gov,County,Pike County Board of Supervisors,,Magnolia,MS,alerts@co.pike.ms.us
 pikecountyohcommissioners.gov,County,Pike County Ohio Commissioners,,Waverly,OH,pikecounty@compassintegration.com
@@ -10996,7 +11027,7 @@ westmorelandcountypa.gov,County,Westmoreland County,,Greensburg,PA,ISSecurity@we
 westmorelandva.gov,County,Westmoreland County Government,,MONTROSS,VA,(blank)
 wetzelcountywv.gov,County,Wetzel County Commission,,New Martinsville,WV,(blank)
 wheatlandcomt.gov,County,Wheatland County,,Harlowton,MT,garrett@dismt.com
-wheelercountyne.gov,County,Wheeler County Nebraska ,,Bartlett,NE,(blank)
+wheelercountyne.gov,County,Wheeler County Nebraska ,,Bartlett,NE,support@appliedconnective.com
 whitaker.gov,County,Whitaker Borough,,Whitaker,PA,(blank)
 whitecircuitclerkar.gov,County,White County Circuit Clerk,,Searcy,AR,support@univodata.com
 whitecountycollectorar.gov,County,White County Arkansas Tax Collector,,Searcy,AR,(blank)
@@ -11105,7 +11136,7 @@ halecoso.gov,County,HALE COUNTY SHERIFFS OFFICE SUITE 18,,GREENSBORO,AL,(blank)
 jeffcowa.gov,County,Jefferson County,,Port Townsend,WA,(blank)
 jeffersonvotesfl.gov,County,Jefferson County SOE Office,,Monticello,FL,mmilligan@jeffersonvotesfl.gov
 jocomoema.gov,County,Johnson County Missouri Emergency Managment Agency,,Warrensburg,MO,(blank)
-kiowacountyks.gov,County,Kiowa County Kansas,,Greensburg,KS,(blank)
+kiowacountyks.gov,County,Kiowa County Kansas,,Greensburg,KS,it@kiowacountyks.org
 leecountyms.gov,County,Lee County MS,,Tupelo,MS,(blank)
 leflorecountyok.gov,County,LeFlore County Sheriff Department,,Poteau,OK,frank@crancho.com
 leonpa.gov,County,Leon County Property Appraiser,,Tallahassee,FL,lcpa.itdept@leonpa.gov
@@ -11260,6 +11291,7 @@ mineralcountymt.gov,County - Election,Mineral County,,Superior,MT,(blank)
 miottawavotes.gov,County - Election,Ottawa County,,West Olive,MI,noc.alerts@miottawa.org
 missoulavotes.gov,County - Election,Missoula County Elections,,Missoula,MT,(blank)
 monmouthcountyvotes.gov,County - Election,Clerk of Elections,,Freehold,NJ,(blank)
+monongaliacountyclerk.gov,County - Election,Monongalia County Clerk's Office,,Morgantown,WV,dns-admin@staff.wvnet.edu
 montcopavotes.gov,County - Election,Montgomery County Pennsylvania,,Norristown,PA,(blank)
 montgomeryvotesal.gov,County - Election,Montgomery County Probate Court,,Montgomery,AL,mccsecurity@montgomerycountyal.gov
 mooretx.gov,County - Election,Moore County Courthouse,,Dumas,TX,(blank)
@@ -11395,6 +11427,7 @@ arc.gov,Federal - Executive,Appalachian Regional Commission,,Washington,DC,(blan
 asc.gov,Federal - Executive,Appraisal Subcommittee of the Federal Financial Institutions Examination Council,,Washington,DC,(blank)
 arctic.gov,Federal - Executive,Arctic Research Commission,,Arlington,VA,dallas@sec-data-eng.com
 afrh.gov,Federal - Executive,Armed Forces Retirement Home,,Washington,DC,Stanley.Whitehead@afrh.gov
+goldwaterinternship.gov,Federal - Executive,Barry Goldwater Scholarship and Excellence in Education Foundation,,Front Royal,VA,spadgett@goldwaterscholarship.gov
 goldwaterscholarship.gov,Federal - Executive,Barry Goldwater Scholarship and Excellence in Education Foundation,,Front Royal,VA,goldwaterao@goldwaterscholarship.gov
 billetes.gov,Federal - Executive,Board of Governors of the Federal Reserve,,Washington,DC,charles.b.young@frb.gov
 fbiic.gov,Federal - Executive,Board of Governors of the Federal Reserve,The Financial and Banking Information Infrastructure Committee,Washington,DC,charles.b.young@frb.gov
@@ -11525,8 +11558,6 @@ hurricanes.gov,Federal - Executive,Department of Commerce,National Oceanic and A
 icams-portal.gov,Federal - Executive,Department of Commerce,National Oceanic and Atmospheric Administration,Silver Spring,MD,security@noaa.gov
 icts.gov,Federal - Executive,Department of Commerce,Bureau of Industry and Security,Washington,DC,bis.cirt@bis.doc.gov
 iedison.gov,Federal - Executive,Department of Commerce,National Institute of Standards and Technology,Washington,DC,siirt@nist.gov
-internet4all.gov,Federal - Executive,Department of Commerce,National Telecommunications and Information Administration,Washington,DC,NTIA-SecOps@ntia.gov
-internetforall.gov,Federal - Executive,Department of Commerce,National Telecommunications and Information Administration,Washington,DC,NTIA-SecOps@ntia.gov
 investinamerica.gov,Federal - Executive,Department of Commerce,Office of the Secretary,Washington,DC,(blank)
 luca-appeals.gov,Federal - Executive,Department of Commerce,Bureau of the Census,Washington,DC,boc.cirt@census.gov
 manufacturing.gov,Federal - Executive,Department of Commerce,National Institute of Standards and Technology,Washington,DC,siirt@nist.gov
@@ -11691,8 +11722,8 @@ ahrq.gov,Federal - Executive,Department of Health and Human Services,Agency for 
 aids.gov,Federal - Executive,Department of Health and Human Services,Office of the Assistant Secretary for Health,Washington,DC,responsibledisclosure@hhs.gov
 alzheimers.gov,Federal - Executive,Department of Health and Human Services,"National Institutes on Aging, NIH",Bethesda,MD,ResponsibleDisclosure@hhs.gov
 aoa.gov,Federal - Executive,Department of Health and Human Services,Administration for Community Living,Washington,DC,responsibledisclosure@hhs.gov
-arpa-h.gov,Federal - Executive,Department of Health and Human Services,Advanced Research Projects Agency for Health,Washington,DC,cybersecurity@arpa-h.gov
-arpah.gov,Federal - Executive,Department of Health and Human Services,Advanced Research Projects Agency for Health,Washington,DC,cybersecurity@arpa-h.gov
+arpa-h.gov,Federal - Executive,Department of Health and Human Services,Advanced Research Projects Agency for Health,Washington,DC,responsibledisclosure@hhs.gov
+arpah.gov,Federal - Executive,Department of Health and Human Services,Advanced Research Projects Agency for Health,Washington,DC,responsibledisclosure@hhs.gov
 aspr.gov,Federal - Executive,Department of Health and Human Services,Administration for Strategic Preparedness and Response,Washington,DC,responsibledisclosure@hhs.gov
 bam.gov,Federal - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,ResponsibleDisclosure@hhs.gov
 betobaccofree.gov,Federal - Executive,Department of Health and Human Services,Food and Drug Administration,Silver Spring,MD,ResponsibleDisclosure@hhs.gov
@@ -11974,7 +12005,6 @@ usdoscloud.gov,Federal - Executive,Department of State,Bureau of Diplomatic Tech
 usembassy.gov,Federal - Executive,Department of State,Bureau of Global Public Affairs,Washington,DC,VDPSubmission@state.gov
 usmission.gov,Federal - Executive,Department of State,Bureau of Global Public Affairs,Washington,DC,VDPSubmission@state.gov
 usxports.gov,Federal - Executive,Department of State,Bureau of Political and Military Affairs,Washington,DC,VDPSubmission@state.gov
-workwithusaid.gov,Federal - Executive,Department of State,,Washington,DC,vdp@usaid.gov
 acwi.gov,Federal - Executive,Department of the Interior,Advisory Committee on Water Information,Reston,VA,security@doi.gov
 anstaskforce.gov,Federal - Executive,Department of the Interior,Aquatic Nuisance Species Task Force,Arlington,VA,soc@fws.gov
 bia.gov,Federal - Executive,Department of the Interior,Bureau of Indian Affairs,Reston,VA,bia_cirt@bia.gov
@@ -12557,7 +12587,6 @@ ocb.gov,Federal - Executive,United States Agency for Global Media,,Washington,DC
 usagm.gov,Federal - Executive,United States Agency for Global Media,,Washington,DC,it-security@usagm.gov
 voa.gov,Federal - Executive,United States Agency for Global Media,VOA,Washington,DC,it-security@usagm.gov
 globalchange.gov,Federal - Executive,United States Global Change Research Program,U.S. Global Change Research Program,Washington,DC,(blank)
-ipcc-wg3.gov,Federal - Executive,United States Global Change Research Program,U.S. Global Change Research Program,Washington,DC,admin@usgcrp.gov
 usgcrp.gov,Federal - Executive,United States Global Change Research Program,U.S. Global Change Research Program,Washington,DC,(blank)
 ushmm.gov,Federal - Executive,United States Holocaust Memorial Museum,United States Holocaust Memorial Museum,Washington,DC,mtrofi@ushmm.org
 usip.gov,Federal - Executive,United States Institute of Peace,,Washington,DC,mrich@usip.gov
@@ -12578,7 +12607,6 @@ uspsinnovates.gov,Federal - Executive,United States Postal Service,,Raleigh,NC,(
 uspsoig.gov,Federal - Executive,United States Postal Service,,Raleigh,NC,IncidentReport@uspsoig.gov
 heritageabroad.gov,Federal - Executive,U.S. Commission for the Preservation of Americas Heritage Abroad,USCPAHA,Washington,DC,ari@thetechmensch.com
 cfa.gov,Federal - Executive,U.S. Commission of Fine Arts,U.S. Commission of Fine Arts,Washington,DC,gsa-vulnerability-reports@gsa.gov
-civilrightsusa.gov,Federal - Executive,U.S. Commission on Civil Rights,ASCD-CIO,Washington,DC,ccrsoc@usccr.gov
 cssbmb.gov,Federal - Executive,U.S. Commission on Civil Rights,Commission on the Social Status of Black Men and Black Boys,Washington,DC,ccrsoc@usccr.gov
 usccr.gov,Federal - Executive,U.S. Commission on Civil Rights,ASCD-CIO,Washington,DC,ccrsoc@usccr.gov
 ich.gov,Federal - Executive,U.S. Interagency Council on Homelessness,United States Interagency Council on Homelessness,District Heights,MD,(blank)
@@ -12622,6 +12650,7 @@ uscapitolgiftstore.gov,Federal - Legislative,Architect of the Capitol,,Washingto
 uscapitol.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov
 visitthecapital.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov
 visitthecapitol.gov,Federal - Legislative,Architect of the Capitol,,Washington,DC,DOMSEC@aoc.gov
+aocoig.gov,Federal - Legislative,"Architect of the Capitol, Office of Inspector General",,Washington,DC,(blank)
 uscapitolpolice.gov,Federal - Legislative,Capitol Police,,Washington,DC,OIS-Security@uscp.gov
 uscp.gov,Federal - Legislative,Capitol Police,,Washington,DC,OIS-Security@uscp.gov
 cbo.gov,Federal - Legislative,Congressional Budget Office,,Washington,DC,tabitha.craig@cbo.gov
@@ -12727,7 +12756,6 @@ uscirf.gov,Federal - Legislative,U.S. Commission on International Religious Free
 america250.gov,Federal - Legislative,U.S. Semiquincentennial Commission,United States Semiquincentennial Commission,Alexandria,VA,domain_security@america250.gov
 usa250.gov,Federal - Legislative,U.S. Semiquincentennial Commission,United States Semiquincentennial Commission,Washington,DC,domain_security@america250.gov
 ussemiquincentennial.gov,Federal - Legislative,U.S. Semiquincentennial Commission,United States Semiquincentennial Commission,Alexandria,VA,domain_security@america250.gov
-whdpc.gov,Federal - Legislative,Western Hemisphere Drug Policy Commission,Western Hemisphere Drug Policy Commission,"Washington,",MD,mary.speck@whdpc.gov
 itis.gov,Federal,Smithsonian Institution,,Herndon,VA,abuse@si.edu
 smithsonian.gov,Federal,Smithsonian Institution,,Herndon,VA,abuse@si.edu
 ahidta.gov,Interstate,Appalachia HIDTA,,London,KY,security@ahidta.org
@@ -12845,7 +12873,6 @@ altavillemelonesfpd.gov,Special district,Altaville Melones Fire Protection Distr
 altoonawater.gov,Special district,Altoona Water Authority,,Altoona,PA,administrators@altoonawater.com
 amadorwater.gov,Special district,Amador Water Agency,,SUTTER CREEK,CA,(blank)
 andersontn911.gov,Special district,Anderson County Emergency Communications District,,Clinton,TN,(blank)
-apcdca.gov,Special district,ALLIANCE OF PEST CONTROL DISTRICTS,,TULARE,CA,sam@pintec.net
 aqmd.gov,Special district,SCAQMD,,Diamond Bar,CA,hjanto8@gmail.com
 arcadecreekrpd.gov,Special district,Arcade Creek Recreation and Park District,,Sacramento,CA,info@arcadecreekrpd.gov
 arcircuitcourts16th.gov,Special district,Arkansas Sixteenth Judicial Circuit,,Batesville,AR,support@univodata.com
@@ -13130,6 +13157,7 @@ garysan.gov,Special district,Gary Sanitary District,,Gary,IN,(blank)
 garysanitary.gov,Special district,Gary Sanitary District,,Gary,IN,(blank)
 gatesfiredistrictny.gov,Special district,Gates Fire District,,Rochester,NY,(blank)
 gawsaor.gov,Special district,Green Area Water & Sanitary Authority,,Roseburg,OR,(blank)
+gbuapcd.gov,Special district,Great Basin Unified Air Pollution Control District,,Bishop,CA,(blank)
 gctdtx.gov,Special district,Gulf Coast Transit District,,Texas City,TX,itservices@gulfcoasttransitdistrict.com
 gcwcid1tx.gov,Special district,Galveston County WCID#1,,Dickinson,TX,gm@gcwcid1tx.gov
 gecparkdistrictil.gov,Special district,Glen Ellyn Countryside Park District,,Glen Ellyn,IL,(blank)
@@ -13219,6 +13247,7 @@ jems-il.gov,Special district,Northwest Central Joint Emergency Management System
 jerichofdny.gov,Special district,Jericho Fire District,,Jericho,NY,(blank)
 jocomo911.gov,Special district,Johnson County Emergency Services Board,,Warrensburg,MO,(blank)
 jordanrivercommission.gov,Special district,Jordan River Commission,,Salt Lake City,UT,(blank)
+justiceparkdistrictil.gov,Special district,Justice Park District,,Justice,IL,(blank)
 jvwcd.gov,Special district,Jordan Valley Water Conservancy District,,West Jordan,UT,abuse@jvwcd.org
 kbcr.gov,Special district,Tri-County Airport Authority,,Bonifay,FL,bwilson@kbcr.gov
 keizerfire.gov,Special district,Keizer Rural Fire Protection District,,Keizer,OR,JRutter@keizerfire.com
@@ -13290,6 +13319,7 @@ lvmwd.gov,Special district,Las Virgenes Municipal Water District,,Calabasas,CA,(
 lyonsfiredistrictny.gov,Special district,Lyons Fire District,,Lyons,NY,(blank)
 lyonswisd2.gov,Special district,Town Sanitary District No.2 of the Town of Lyons,,Lyons,WI,dsnyder@baxterwoodman.com
 maccor.gov,Special district,Metropolitan Area Communications Commission,,Beaverton,OR,(blank)
+madco911al.gov,Special district,Huntsville-Madison County 911 Center,,Huntsville,AL,(blank)
 maeserwater.gov,Special district,Maeser Water Improvement District,,Vernal,UT,(blank)
 magnamosquito.gov,Special district,Magna Mosquito Abatement District,,Magna,UT,janae@magnamosquito.org
 magutah.gov,Special district,Mountainland Association of Governments,,Orem,UT,(blank)
@@ -13300,6 +13330,7 @@ manhassetparkdistrictny.gov,Special district,Manhasset Park District,,Manhasset,
 marintransit.gov,Special district,Marin County Transit District,,San Rafael,CA,(blank)
 marionflclerk.gov,Special district,Office of the Marion County Clerk of Court and Comptroller,,Ocala,FL,helpdesk@marioncountyclerk.org
 marionswcdfl.gov,Special district,Marion Soil and Water Conservation District,,Ocala,FL,ann.bishop@marionfl.org
+marqroadmi.gov,Special district,Marquette County Road Commission,,Ishpeming,MI,(blank)
 marthasvilleems.gov,Special district,Marthasville Community Ambulance District,,Marthasville,MO,sales@trackerdesigns.com
 massauditor.gov,Special district,Massachusetts Office of the State Auditor,,Boston,MA,DL.SAOAdminSecurityAlert@massauditor.gov
 masticfd.gov,Special district,Mastic Fire District,,Mastic,NY,(blank)
@@ -13347,6 +13378,7 @@ moscowidahoruralfire.gov,Special district,Moscow Rural Fire District,,Moscow,ID,
 mountainbaypd.gov,Special district,Mountain Bay Metropolitan Police Department,,Rothschild,WI,govcompliance@mountainbaypd.gov
 mountaingreensid.gov,Special district,Mountain Green Sewer Improvement District,,Mountain Green,UT,manager@mgsid.com
 mountainviewfireco.gov,Special district,Mountain View Fire Protection District,,Niwot,CO,(blank)
+mountainvistamd1.gov,Special district,"Mountain Vista Metropolitan District,",,Colorado Springs,CO,(blank)
 mrcog-nm.gov,Special district,Mid-Region Council of Governments,,Albuquerque,NM,itops@mrcog-nm.gov
 mrecc-ma.gov,Special district,Middlesex Regional Emergency Communications Center,,Framingham,MA,(blank)
 mrrsanj.gov,Special district,Manasquan River Regional Sewerage Authority,,Farmingdale,NJ,director@mrrsa.org
@@ -13424,7 +13456,7 @@ nypa.gov,Special district,New York Power Authority,,White Plains,NY,cyberalert@n
 nystrs.gov,Special district,New York State Teachers' Retirement System,,Albany,NY,securityadmins@nystrs.org
 obioncountytn911.gov,Special district,Obion County Emergency Communications District (E-911),,Union City,TN,support@geoconex.com
 obwdny.gov,Special district,OYSTER BAY WATER DISTRICT,,Oyster Bay,NY,(blank)
-ocassessor.gov,Special district,Orange County Assessor Department,,Orange,CA,security@asr.ocgov.com
+ocassessor.gov,Special district,Orange County Assessor Department,,Orange,CA,security@ocassessor.gov
 ocers.gov,Special district,Orange County Employees Retirement System,,SANTA ANA,CA,infosec@ocers.org
 ocprintgraphics.gov,Special district,Orange County Registrar of Voters,,Santa Ana,CA,rovwebmaster@ocvote.gov
 octa.gov,Special district,Orange County Transportation Authority,,Orange,CA,(blank)
@@ -13462,6 +13494,7 @@ pbctax.gov,Special district,Palm Beach County Tax Collector,,West palm Beach,FL,
 pccdal.gov,Special district,Pike County Communications District,,Troy,AL,support@pikecounty911.org
 pcfdut.gov,Special district,Park City Fire District,,Park City,UT,security@pcfd.org
 pcpao.gov,Special district,Pinellas County Property Appraiser,,Clearwater,FL,webmaster@pcpao.gov
+pdemud1.gov,Special district,Paseo Del Este Municipal Utility District 1,,El Paso,TX,cfisher@pdemuds.com
 peoriaparks-il.gov,Special district,"Pleasure Driveway and Park District of Peoria, IL DBA Peoria Park District",,Peoria,IL,it@peoriaparks.org
 permarisk.gov,Special district,Public Entity Risk Management Authority,,Palm Desert,CA,info@permarisk.gov
 pikemowatersupply.gov,Special district,Pike County Public Water Supply District #1,,Bowling Green,MO,(blank)
@@ -13535,6 +13568,7 @@ samcera.gov,Special district,SamCERA,,Redwood City,CA,samcera-it@samcera.org
 sanandreasfire.gov,Special district,San Andreas Fire Protection District,,San Andreas,CA,(blank)
 sandag.gov,Special district,San Diego Association of Governments,,San Diego,CA,govsec@sandag.org
 sanfrancisquitocreekjpa.gov,Special district,San Francisquito Creek Joint Powers Authority,,MENLO PARK,CA,(blank)
+sangabrielcountywaterdistrict.gov,Special district,San Gabriel County Water District,,Rosemead,CA,(blank)
 sani2tohny.gov,Special district,Town of Hempstead Sanitary District No. 2,,Baldwin,NY,(blank)
 sanjacintoriverauthority.gov,Special district,San Jacinto River Authority,,Conroe,TX,servicedesk@sjra.net
 sanmiguelfire.gov,Special district,San Miguel Consolidated Fire Protection District,,Spring Valley,CA,heartland@helpspotmail.com
@@ -13674,6 +13708,7 @@ tbld.gov,Special district,Tensas Basin Levee District,,Monroe,LA,jason.mcmillin@
 tcwsa-or.gov,Special district,Tri City Water And Sanitary Authority,,Myrtle Creek,OR,(blank)
 teche-vermilion.gov,Special district,Teche-Vermilion Fresh Water District,,Lafayette,LA,(blank)
 techsharetx.gov,Special district,TechShare Local Government Corporation,,Allen,TX,it.helpdesk@techsharetx.gov
+terrebonne911.gov,Special district,Terrebonne Parish Communications District 911,,Houma,LA,(blank)
 tetonvillagewy.gov,Special district,Teton Village Association,,Teton Village,WY,(blank)
 texascountymo911.gov,Special district,Texas County Emergency Services,,Houston,MO,support@sumnerone.com
 tfsfiremt.gov,Special district,Trego Fortine Stryker Volunteer Fire Department,,Fortine,MT,(blank)
@@ -13686,6 +13721,7 @@ tiburonfire.gov,Special district,Tiburon Fire Protection District,,Tiburon,CA,se
 ticefire.gov,Special district,Tice Fire Protection & Rescue District,,Fort Myers,FL,(blank)
 tillamook911.gov,Special district,Tillamook County Emergency Communications District,,Tillamook,OR,jspence@tillamook911.gov
 tillmancountyems.gov,Special district,Tillman County Emergency Medical Services District,,Frederick,OK,(blank)
+timberlakeswaterssdut.gov,Special district,Timber Lakes Water Special Service District,,Heber City,UT,(blank)
 timberlinessdut.gov,Special district,Timberline Special Service District,,South Jordan,UT,(blank)
 townofbrazeauwi.gov,Special district,Town of Brazeau,,Pound,WI,technician@uescomp.com
 townofmamaroneckfd.gov,Special district,Town of Mamaroneck Fire Department,,Larchmont,NY,(blank)
@@ -13720,6 +13756,7 @@ utleg.gov,Special district,Utah State Legislature,,Salt Lake City,UT,security@le
 utsdco.gov,Special district,Upper Thompson Sanitation District,,Estes Park,CO,(blank)
 vacstclairil.gov,Special district,Veterans Assistance Commission of St. Clair County,,Belleville,IL,(blank)
 valenciaswcd-nm.gov,Special district,Valencia Soil and Water Conservation District,,Belen,NM,public-input@valenciaswcd-nm.gov
+valleycoemsid.gov,Special district,Valley Countywide EMS District,,McCall,ID,admin@mccallfire.com
 valleyenforcementoh.gov,Special district,Valley Enforcement Reg Council of Governments,,Orange,OH,(blank)
 valmeyerfd.gov,Special district,Valmeyer Fire Protection District,,Valmeyer,IL,(blank)
 vandenbergvillagecsd.gov,Special district,Vandenberg Village Community Services District,,Lompoc,CA,info@vvcsd.org
@@ -13837,6 +13874,7 @@ martinvotes.gov,Special district - Election,Martin County Supervisor of Election
 masoncountywaelections.gov,Special district - Election,Mason County Elections,,SHELTON,WA,elections@masoncountywa.gov
 ocfelections.gov,Special district - Election,Orange County Florida Supervisor of Elections,,Orlando,FL,security@ocfelections.gov
 ocvote.gov,Special district - Election,Orange County Registrar of  Voters,,Santa Ana,CA,rovwebmaster@rov.ocgov.com
+shorelinefiremn.gov,Special district - Election,Shoreline Fire Department,,Orono,MN,(blank)
 summitcountyboe.gov,Special district - Election,Summit County Board of Elections,,Akron,OH,it@summitcountyboe.gov
 tooelecountyvotes.gov,Special district - Election,Tooele County,,Tooele,UT,shawn.mcdonald@tooeleco.gov
 volusiaelections.gov,Special district - Election,Volusia County Supervisor of Elections Office,,DeLand,FL,(blank)
@@ -15278,7 +15316,7 @@ votetexas.gov,State or territory - Election,Texas Secretary of State,,Austin,TX,
 votewa.gov,State or territory - Election,Washington Secretary of State,,Olympia,WA,(blank)
 29palmsbomi-nsn.gov,Tribal,Twenty-Nine Palms Band of Mission Indians,,Coachella,CA,(blank)
 29palmsgaming-nsn.gov,Tribal,Twenty-Nine Palms Band of Mission Indians,,Coachella,CA,(blank)
-absenteeshawneetribe-nsn.gov,Tribal,Absentee Shawnee Tribe of Indians of Oklahoma,,Shawnee,OK,(blank)
+absenteeshawneetribe-nsn.gov,Tribal,Absentee Shawnee Tribe of Indians of Oklahoma,,Shawnee,OK,abuse@astribe.com
 actoftexaspd.gov,Tribal,Alabama-Coushatta Tribe of Texas,,Livingston,TX,(blank)
 aguacaliente-nsn.gov,Tribal,Agua Caliente Band of Cahuilla Indians,,Palm Springs,CA,edarancette@aguacaliente.net
 aguacalientetribalcourt.gov,Tribal,Agua Caliente Band of Cahuilla Indians,,Palm Springs,CA,itengsupport@accmail.net
@@ -15460,7 +15498,7 @@ pleasantpointpolice.gov,Tribal,Passamaquoddy Tribe,,Perry,ME,(blank)
 poarchcreekindians-nsn.gov,Tribal,Poarch Band of Creek Indians,,Atmore,AL,Rparham@pci-nsn.gov
 pokagonband-nsn.gov,Tribal,Pokagon Band of Potawatomi Indians,,Dowagiac,MI,jp.lambrechts@pokagonband-nsn.gov
 pol-nsn.gov,Tribal,Pueblo of Laguna,,Laguna,NM,ITSUPPORT@POL-NSN.GOV
-ponca-nsn.gov,Tribal,Ponca Tribe of Oklahoma,,Ponca City,OK,carla.carney@ponca-nsn.gov
+ponca-nsn.gov,Tribal,Ponca Tribe of Oklahoma,,Ponca City,OK,james.knight@ponca-nsn.gov
 poncatribe-ne.gov,Tribal,Ponca Tribe of Nebraska,,Niobrara,NE,security@poncatribe-ne.gov
 prairieislandpolice.gov,Tribal,Prairie Island Police Department,,Welch,MN,(blank)
 puliklatribe.gov,Tribal,The Resighini Rancheria,,Klamath,CA,office@puliklatribe.gov
