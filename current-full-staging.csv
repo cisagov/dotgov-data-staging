@@ -1777,7 +1777,7 @@ clyde-tx.gov,City,City Of Clyde,,Clyde,TX,admin@clyde-tx.gov
 clydewi.gov,City,Town of Clyde,,Avoca,WI,security@ohgnetworks.com
 cmsdca.gov,City,Costa Mesa Sanitary District,,Costa Mesa,CA,gterraneo@cmsdca.gov
 coalcity-il.gov,City,Village of Coal City,,Coal City,IL,(blank)
-coalrunky.gov,City,City of Coal Run Village,,Pikeville,KY,(blank)
+coalrunky.gov,City,City of Coal Run Village,,Pikeville,KY,king.ralph@bitsourceky.com
 coalvillecity.gov,City,Coalville City,,Coalville,UT,(blank)
 cobleskilltown-ny.gov,City,Town of Cobleskill,,Cobleskill,NY,(blank)
 cobleskillvillage-ny.gov,City,Village of Cobleskill,,Cobleskill,NY,(blank)
@@ -4543,6 +4543,7 @@ montvillegeaugaohio.gov,City,Montville Township,,Montville,OH,(blank)
 moodyalabama.gov,City,City of Moody,,Moody,AL,tpatterson@moodyalabama.gov
 moodytx.gov,City,"City of Moody, Texas",,Moody,TX,rrivera@moodytx.gov
 moorefieldtownshipclark.gov,City,Moorefield Township,,Springfield,OH,(blank)
+moorefieldwv.gov,City,Town of Moorefield,,Moorefield,WV,(blank)
 mooremi.gov,City,Moore Township,,Snover,MI,(blank)
 mooremt.gov,City,Town of Moore,,Moore,MT,townofmoore@itstriangle.com
 mooresvillenc.gov,City,Town of Mooresville,,Mooresville,NC,(blank)
@@ -5159,7 +5160,7 @@ palmbayfl.gov,City,City of Palm Bay,,Palm Bay,FL,NetworkOperations@palmbayflorid
 palmcoast.gov,City,City of Palm Coast,,Palm Coast,FL,itapps@palmcoastgov.comt
 palmdesert.gov,City,City of Palm Desert,,Palm Desert,CA,rsantos@palmdesert.gov
 palmerpa.gov,City,Palmer Township,,Palmer,PA,(blank)
-palmertx.gov,City,CIty of Palmer,,Palmer,TX,(blank)
+palmertx.gov,City,CIty of Palmer,,Palmer,TX,connectin@actamsp.com
 palmettobay-fl.gov,City,Village of Palmetto Bay,,Palmetto Bay,FL,it@palmettobay-fl.gov
 palmsprings-ca.gov,City,City of Palm Springs,,Palm Springs,CA,(blank)
 palmspringsca.gov,City,City of Palm Springs,,Palm Springs,CA,(blank)
@@ -6233,7 +6234,7 @@ southberwickfire.gov,City,South Berwick Fire Department,,South Berwick,ME,(blank
 southberwickmaine.gov,City,"Town of South Berwick, Maine",,South Berwick,ME,(blank)
 southboroughma.gov,City,Town of Southborough,,Southborough,MA,jmontijo@southboroughma.com
 southbranchtownshipwexfordmi.gov,City,South Branch Township,,Cadillac,MI,(blank)
-southbridgefire.gov,City,Southbridge Fire Dept.,,SOUTHBRIDGE,MA,(blank)
+southbridgefire.gov,City,Southbridge Fire Dept.,,SOUTHBRIDGE,MA,garvelo@southbridgepolice.gov
 southbridge-ma.gov,City,Town of Southbridge,,Southbridge,MA,securityalerts@southbridgemass.org
 southbridgepolice.gov,City,Southbridge Police Department,,SOUTHBRIDGE,MA,(blank)
 southbrunswicknj.gov,City,Township of South Brunswick,,South Brunswick,NJ,ism@sbtnj.net
@@ -7290,7 +7291,7 @@ townofsumrallms.gov,City,Town of Sumrall,,Sumrall,MS,joel@lofton-june8.com
 townofsuperiorwi.gov,City,Town of Superior,,SUPERIOR,WI,(blank)
 townofsurfsidefl.gov,City,Town of Surfside,,Surfside,FL,(blank)
 townofswedenny.gov,City,Town of Sweden,,Brockport,NY,(blank)
-townofsykesville.gov,City,Town of Sykesville,,Sykesville,MD,(blank)
+townofsykesville.gov,City,Town of Sykesville,,Sykesville,MD,town@sykesville.net
 townofsylvesterwi.gov,City,Town of Sylvester,,Monroe,WI,sylvestertownship@gmail.com
 townoftaycheedahwi.gov,City,TOWN OF TAYCHEEDAH,,FOND DU LAC,WI,info@townoftaycheedah.com
 townoftempleok.gov,City,Town of Temple,,Temple,OK,(blank)
@@ -11278,6 +11279,7 @@ berncoclerk.gov,County - Election,Bernalillo County Clerk's Office,,Albuquerque,
 bouldercountyvotes.gov,County - Election,Boulder County Clerk & Recorder - Elections Division,,Boulder,CO,securityalerts@bouldercounty.gov
 branchcounty.gov,County - Election,"County of Branch, MI",,Coldwater,MI,(blank)
 brazoriacountyclerktx.gov,County - Election,Brazoria County,,Angleton,TX,joyceh@brazoria-county.com
+browardtax.gov,County - Election,Broward County Tax Collector,,Fort Lauderdale,FL,itsec@browardtax.org
 browardvotes.gov,County - Election,Broward County Supervisor of Elections,,Fort Lauderdale,FL,alerts@browardvotes.gov
 brulecounty.gov,County - Election,Brule County,,Chamberlain,SD,(blank)
 brunswickncvotes.gov,County - Election,Brunswick County NC,,Bolivia,NC,security@brunswickcountync.gov
@@ -11609,7 +11611,7 @@ oversight.gov,Federal - Executive,Council of the Inspectors General on Integrity
 pandemicoversight.gov,Federal - Executive,Council of the Inspectors General on Integrity and Efficiency,Council of the Inspectors General on Integrity and Efficiency,Washington,DC,security@cigie.gov
 csosa.gov,Federal - Executive,Court Services and Offender Supervision Agency for the District of Columbia,,Washington,DC,Soc@csosa.gov
 pretrialservices.gov,Federal - Executive,Court Services and Offender Supervision Agency for the District of Columbia,Pretrial Services Agency for the District of Columbia,Washington,DC,PSAITSecurity@csosa.gov
-psa.gov,Federal - Executive,Court Services and Offender Supervision Agency for the District of Columbia,,Washington,DC,PSAITSecurity@PSA.gov
+psa.gov,Federal - Executive,Court Services and Offender Supervision Agency for the District of Columbia,,Washington,DC,PSAITSecurity@csosa.gov
 dnfsb.gov,Federal - Executive,Defense Nuclear Facilities Safety Board,,Washington,DC,cyberalerts@dnfsb.gov
 dra.gov,Federal - Executive,Delta Regional Authority,,Clarksdale,MS,(blank)
 denali.gov,Federal - Executive,Denali Commission,,Anchorage,AK,jherrick@denali.gov
@@ -11871,6 +11873,7 @@ foodsafety.gov,Federal - Executive,Department of Health and Human Services,Offic
 freshempire.gov,Federal - Executive,Department of Health and Human Services,Food and Drug Administration,Silver Spring,MD,ResponsibleDisclosure@hhs.gov
 fruitsandveggiesmatter.gov,Federal - Executive,Department of Health and Human Services,Centers for Disease Control and Prevention,Atlanta,GA,ResponsibleDisclosure@hhs.gov
 genome.gov,Federal - Executive,Department of Health and Human Services,National Institutes of Health,Bethesda,MD,responsibledisclosure@hhs.gov
+getactive.gov,Federal - Executive,Department of Health and Human Services,,Washington,DC,(blank)
 girlshealth.gov,Federal - Executive,Department of Health and Human Services,"Office of Public Health and Science, Office on Women's Health",Washington,DC,responsibledisclosure@hhs.gov
 globalhealth.gov,Federal - Executive,Department of Health and Human Services,"Office of Global Affairs, Office of the Secretary",Rockville,MD,responsibledisclosure@hhs.gov
 gmta.gov,Federal - Executive,Department of Health and Human Services,"Office of Grants, Division of Workforce Development",Washington DC,DC,todd.kaywood@usda.gov
