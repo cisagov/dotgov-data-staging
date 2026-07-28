@@ -13,22 +13,19 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Setup deno
-        uses: denoland/setup-deno@main
-        with:
-          deno-version: v1.x
       - name: Check out repo
-        uses: actions/checkout@v5
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - name: Pull from main
         run: |-
           git pull
-      - name: Fetch data
-        uses: githubocto/flat@v3
-        with:
-          http_url: https://getgov-${{ env.TEST_ENV }}.app.cloud.gov/api/v1/get-report/current-federal
-          downloaded_filename: current-federal-${{ env.TEST_ENV }}.csv
-      - name: Fetch data
-        uses: githubocto/flat@v3
-        with:
-          http_url: https://getgov-${{ env.TEST_ENV }}.app.cloud.gov/api/v1/get-report/current-full
-          downloaded_filename: current-full-${{ env.TEST_ENV }}.csv
+      - name: Fetch current-federal
+        run: curl -fsSL -o "current-federal-${TEST_ENV}.csv" "https://getgov-${TEST_ENV}.app.cloud.gov/api/v1/get-report/current-federal"
+      - name: Fetch current-full
+        run: curl -fsSL -o "current-full-${TEST_ENV}.csv" "https://getgov-${TEST_ENV}.app.cloud.gov/api/v1/get-report/current-full"
+      - name: Commit updated data
+        run: |
+          git config user.name "botgov"
+          git config user.email "help@get.gov"
+          git add "current-federal-${TEST_ENV}.csv" "current-full-${TEST_ENV}.csv"
+          git commit -m "Flat: latest data ($(date -u +%FT%TZ))" || exit 0
+          git push
