@@ -6,7 +6,7 @@ on:
     paths:
       - 'index.html'
       - '*.csv'
-  delete
+  delete:
 
 concurrency: preview-${{ github.event.ref || github.ref_name }}
 
