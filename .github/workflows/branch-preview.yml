@@ -1,0 +1,51 @@
+name: Branch preview
+
+on:
+  push:
+    branches-ignore: [main]
+    paths:
+      - 'index.html'
+      - '*.csv'
+  delete
+
+concurrency: preview-${{ github.event.ref || github.ref_name }}
+
+permissions:
+  contents: write
+
+jobs:
+  deploy-preview:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Compute safe branch slug
+        id: slug
+        run: echo "slug=$(echo '${{ github.ref_name }}' | tr '/' '-')" >> "$GITHUB_OUTPUT"
+
+      - name: Deploy preview
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: ./
+          preview-branch: gh-pages
+          action: deploy
+          pr-number: ${{ steps.slug.outputs.slug }}
+          comment: false
+          qr-code: true
+
+  remove-preview:
+    if: github.event_name == 'delete' && github.event.ref_type == 'branch' && github.event.ref != 'main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Compute safe branch slug
+        id: slug
+        run: echo "slug=$(echo '${{ github.event.ref }}' | tr '/' '-')" >> "$GITHUB_OUTPUT"
+
+      - name: Remove preview
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          preview-branch: gh-pages
+          action: remove
+          pr-number: ${{ steps.slug.outputs.slug }}
