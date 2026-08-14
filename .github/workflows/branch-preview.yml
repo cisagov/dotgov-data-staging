@@ -26,6 +26,7 @@ jobs:
         run: echo "slug=$(echo '${{ github.ref_name }}' | tr '/' '-')" >> "$GITHUB_OUTPUT"
 
       - name: Deploy preview
+        id: preview
         uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: ./
@@ -34,6 +35,8 @@ jobs:
           pr-number: ${{ steps.slug.outputs.slug }}
           comment: false
           qr-code: true
+      - name: Show preview URL
+        run: echo "Preview available at ${{ steps.preview.outputs.preview-url }}" >> "$GITHUB_STEP_SUMMARY"
 
   remove-preview:
     if: github.event_name == 'delete' && github.event.ref_type == 'branch' && github.event.ref != 'main'
