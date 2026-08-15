@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Compute safe branch slug
         id: slug
@@ -27,7 +27,7 @@ jobs:
 
       - name: Deploy preview
         id: preview
-        uses: rossjrw/pr-preview-action@6ad689fb660356a51056a65da646c957e6093012
+        uses: rossjrw/pr-preview-action@ffa7509e91a3ec8dfc2e5536c4d5c1acdf7a6de9 # v1.8.1
         with:
           source-dir: ./
           preview-branch: gh-pages
@@ -47,7 +47,7 @@ jobs:
         run: echo "slug=$(echo '${{ github.event.ref }}' | tr '/' '-')" >> "$GITHUB_OUTPUT"
 
       - name: Remove preview
-        uses: rossjrw/pr-preview-action@6ad689fb660356a51056a65da646c957e6093012
+        uses: rossjrw/pr-preview-action@ffa7509e91a3ec8dfc2e5536c4d5c1acdf7a6de9 # v1.8.1
         with:
           preview-branch: gh-pages
           action: remove
