@@ -725,16 +725,7 @@
         col.headerFilterParams = {
           values: listColumns[field],
           clearable: true,
-          multiselect: true,
-          // Tabulator writes dropdown values via innerHTML, which would
-          // execute any HTML/script embedded in a CSV value. Returning a
-          // real element instead makes Tabulator appendChild it, and
-          // textContent escapes the value safely.
-          itemFormatter: function (label) {
-            var el = document.createElement('span');
-            el.textContent = label;
-            return el;
-          }
+          multiselect: true
         };
         col.headerFilterPlaceholder = 'All';
       } else {
