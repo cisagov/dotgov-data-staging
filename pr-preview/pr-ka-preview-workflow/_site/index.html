@@ -179,6 +179,10 @@
     letter-spacing: -0.01em;
     color: var(--gov-blue-darker);
   }
+  .page-intro h1 #h1-nonproduction-tag {
+    color: #d54309;
+    font-weight: 600;
+  }
   .page-intro p {
     margin: 0;
     max-width: 72ch;
@@ -187,10 +191,14 @@
     line-height: 1.55;
   }
 
+  /* USWDS usa-alert--error colors, pulled from the actual USWDS package
+     rather than improvised — these intentionally stay fixed regardless of
+     light/dark mode, matching how the real component behaves (USWDS alerts
+     aren't theme-adaptive). */
   #non-production-banner {
-    background: #faf3d1;
-    border-left: 0.5rem solid #ffbe2e;
-    color:#1b1b1b;
+    background: #f4e3db;
+    border-left: 0.5rem solid #d54309;
+    color: #1b1b1b;
   }
 
   #non-production-banner .usa-alert__body {
@@ -422,7 +430,7 @@
   <div class="usa-nav-container">
     <div class="usa-navbar">
       <div class="usa-logo">
-        <span class="usa-logo__text"><a href="index.html" title="Home">data.get.gov</a></span>
+        <span class="usa-logo__text"><a href="index.html" title="Home" id="site-title-link">data.get.gov</a></span>
         <span class="usa-logo__tag"><a class="repo-context" data-repo-text="spaced" data-repo-link="root" href="https://github.com/cisagov/dotgov-data" target="_blank" rel="noopener">cisagov / dotgov-data</a></span>
       </div>
     </div>
@@ -436,16 +444,16 @@
     </nav>
   </div>
 </header>
-<div id="non-production-banner" class="usa-alert usa-alert--warning" hidden>
+<div id="non-production-banner" class="usa-alert usa-alert--error" hidden>
   <div class="usa-alert__body">
-  <svg xmlns="http://www.w3.org/2000/svg" class="usa-alert__icon" aria-hidden="true" focusable="false" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"/></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" class="usa-alert__icon" aria-hidden="true" focusable="false" height="24" viewBox="0 0 24 24" width="24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"/></svg>
     <p class="usa-alert__text" id="non-production-banner-text"></p>
   </div>
 </div>
 
 <div class="page-intro">
   <p class="eyebrow">Public data</p>
-  <h1 id="main-content">.gov Registry Data</h1>
+  <h1 id="main-content">.gov Registry Data<span id="h1-nonproduction-tag" hidden> — Non-Production Copy</span></h1>
   <p>Search, sort, and filter the public list of registered .gov domains, published daily by the .gov registry. Data is read directly from the public GitHub repository — nothing is uploaded or stored elsewhere.</p>
 </div>
 
@@ -491,8 +499,10 @@
     <a class="repo-context" data-repo-link="root" data-repo-text="slash" href="https://github.com/cisagov/dotgov-data" target="_blank" rel="noopener">cisagov/dotgov-data</a> repository.
     Built with <a href="https://tabulator.info/" target="_blank" rel="noopener">Tabulator</a> and
     <a href="https://www.papaparse.com/" target="_blank" rel="noopener">PapaParse</a>, both open source.
-    To correct information about a domain you manage, sign in to the
-    <a href="https://manage.get.gov" target="_blank" rel="noopener">.gov registrar</a>.</p>
+    <span id="footer-production-note">To correct information about a domain you manage, sign in to the
+    <a href="https://manage.get.gov" target="_blank" rel="noopener">.gov registrar</a>.</span>
+    <span id="footer-nonproduction-note" hidden><strong>Does not contain official .gov domain information.</strong> This repo supports the .gov registry team publishing data about the .gov zone — it's used to test format and publication changes before they ship, and may include fake .gov domains. Unless you're part of that team, this repo probably isn't useful to you.</span>
+  </p>
 </footer>
 
 <script>
@@ -547,8 +557,15 @@
 
     if (!IS_PRODUCTION_REPO) {
       var banner = document.getElementById('non-production-banner');
-      document.getElementById('non-production-banner-text').textContent = 'You are viewing a non-production copy (' + REPO_CONTEXT.owner + '/' + REPO_CONTEXT.repo + '), not the live site.';
+      document.getElementById('non-production-banner-text').textContent = 'You are viewing a non-production repository (' + REPO_CONTEXT.owner + '/' + REPO_CONTEXT.repo + '), not the live data! This may contain fake domains and data, and should NOT be used as a reference.';
       banner.hidden = false;
+      document.getElementById('footer-production-note').hidden = true;
+      document.getElementById('footer-nonproduction-note').hidden = false;
+      document.getElementById('h1-nonproduction-tag').hidden = false;
+      // "data.get.gov" is the real production domain — showing that name
+      // as the site's own title anywhere else would falsely imply this
+      // page lives there. Swap it for the actual hostname instead.
+      document.getElementById('site-title-link').textContent = window.location.hostname;
       document.title = '[' + REPO_CONTEXT.repo + '] ' + document.title;
       }
     })();
