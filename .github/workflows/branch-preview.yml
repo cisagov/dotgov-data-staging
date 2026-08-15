@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
 
       - name: Compute safe branch slug
         id: slug
@@ -34,7 +34,7 @@ jobs:
           action: deploy
           pr-number: ${{ steps.slug.outputs.slug }}
           comment: false
-          qr-code: true
+          qr-code: false
       - name: Show preview URL
         run: echo "Preview available at ${{ steps.preview.outputs.preview-url }}" >> "$GITHUB_STEP_SUMMARY"
 
