@@ -877,7 +877,9 @@
   downloadBtn.addEventListener('click', function () {
     if (!table) return;
     var dataset = fileSelect.value.replace('.csv', '');
-    var filename = activeFilterCount > 0 ? dataset + '-filtered.csv' : dataset + '.csv';
+    var today = new Date().toLocaleDateString('en-CA'); // Gets local date and formats it YYYY-MM-DD
+    var suffix = activeFilterCount > 0 ? '-filtered' : '';
+    var filename = dataset + suffix + '-' + today + '.csv';
     table.download('csv', filename);
   });
 
