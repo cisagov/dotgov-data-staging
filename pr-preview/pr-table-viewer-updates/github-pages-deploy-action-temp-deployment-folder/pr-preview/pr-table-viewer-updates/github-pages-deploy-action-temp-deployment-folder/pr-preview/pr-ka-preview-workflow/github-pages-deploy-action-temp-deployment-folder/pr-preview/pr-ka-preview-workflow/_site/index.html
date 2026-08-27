@@ -516,35 +516,6 @@
   var updatedNoteEl = document.getElementById('updated-note');
 
   var table = null;
-  var activeFilterCount = 0; // Track whether any filters are applied
-
-  // Set the page size options. 'True' is the value for an "all" option
-  var PAGE_SIZE_OPTIONS = [25, 50, 100, 250, 1000, 5000, true] 
-  var DEFAULT_PAGE_SIZE = 100
-
-  // Allow ?pageSize= in the URL so page size parameters can be bookmarked
-  // or shared. Any positive integer works. Values that aren't a positive
-  // integer just fall back to the default.
-  function resolvePageSize () {
-    var raw = new URLSearchParams(window.location.search).get('pageSize');
-    if (!raw) return DEFAULT_PAGE_SIZE;
-    if (raw.toLowerCase() === 'all') return true;
-    var n = parseInt(raw, 10);
-    return n > 0 ? n : DEFAULT_PAGE_SIZE;
-  }
-
-  // Keep the URL in sync if the size is changed in the dropdown, so the
-  // address bar is always bookmarkable. replaceState avoids adding a new
-  // history entry for every change
-  function syncPageSizeToURL(size) {
-    var url = new URL(window.location.href);
-    if (size === DEFAULT_PAGE_SIZE) {
-      url.searchParams.delete('pageSize');
-    } else {
-      url.searchParams.set('pageSize', size === true ? 'all' : size);
-    }
-    window.history.replaceState({}, '', url);
-  }
 
   // Repo this page is meant to live in. Used both to discover the list of
   // CSV files (via the GitHub API) and to build raw.githubusercontent.com
@@ -839,8 +810,8 @@
           layout: 'fitDataFill',
           responsiveLayout: false,
           pagination: true,
-          paginationSize: resolvePageSize(),
-          paginationSizeSelector: PAGE_SIZE_OPTIONS.slice(),
+          paginationSize: 50,
+          paginationSizeSelector: [25, 50, 100, 250],
           placeholder: 'No matching rows',
           height: '65vh',
           // Render header-menu popups (used by the freeze/unfreeze column
@@ -852,14 +823,9 @@
 
         table.on('dataFiltered', function (filters, filteredRows) {
           updateRowCount(filteredRows.length, rows.length);
-          activeFilterCount = filters.length;
-          downloadBtn.textContent = activeFilterCount > 0 ? 'Download filtered CSV' : 'Download CSV';
         });
         table.on('tableBuilt', function () {
           updateRowCount(rows.length, rows.length);
-        });
-        table.on('pageSizeChanged', function (size) {
-          syncPageSizeToURL(size);
         });
 
         showMessage('', '');
@@ -908,10 +874,7 @@
   downloadBtn.addEventListener('click', function () {
     if (!table) return;
     var dataset = fileSelect.value.replace('.csv', '');
-    var today = new Date().toLocaleDateString('en-CA'); // Gets local date and formats it YYYY-MM-DD
-    var suffix = activeFilterCount > 0 ? '-filtered' : '';
-    var filename = dataset + suffix + '-' + today + '.csv';
-    table.download('csv', filename);
+    table.download('csv', dataset + '-filtered.csv');
   });
 
   fileSelect.addEventListener('change', function () {
