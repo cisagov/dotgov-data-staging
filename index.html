@@ -516,6 +516,7 @@
   var updatedNoteEl = document.getElementById('updated-note');
 
   var table = null;
+  var activeFilterCount = 0; // Track whether any filters are applied
 
   // Repo this page is meant to live in. Used both to discover the list of
   // CSV files (via the GitHub API) and to build raw.githubusercontent.com
@@ -823,6 +824,8 @@
 
         table.on('dataFiltered', function (filters, filteredRows) {
           updateRowCount(filteredRows.length, rows.length);
+          activeFilterCount = filters.length;
+          downloadBtn.textContent = activeFilterCount > 0 ? 'Download filtered CSV' : 'Download CSV';
         });
         table.on('tableBuilt', function () {
           updateRowCount(rows.length, rows.length);
@@ -874,7 +877,8 @@
   downloadBtn.addEventListener('click', function () {
     if (!table) return;
     var dataset = fileSelect.value.replace('.csv', '');
-    table.download('csv', dataset + '-filtered.csv');
+    var filename = activeFilterCount > 0 ? dataset + '-filtered.csv' : dataset + '.csv';
+    table.download('csv', filename);
   });
 
   fileSelect.addEventListener('change', function () {
