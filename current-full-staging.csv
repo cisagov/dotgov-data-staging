@@ -42,7 +42,7 @@ ainsworthwi.gov,City,Town of Ainsworth,,Pearson,WI,(blank)
 airmont.gov,City,Village of Airmont,,Airmont,NY,(blank)
 akronohio.gov,City,"City of Akron, Ohio",,Akron,OH,infrastructure@akronohio.gov
 akronohiorescue.gov,City,"City of Akron, Ohio",,Akron,OH,infrastructure@akronohio.gov
-alachuapd.gov,City,Alachua Police Department,,Alachua,FL,(blank)
+alachuapd.gov,City,Alachua Police Department,,Alachua,FL,security@cityofalachua.org
 alamedaca.gov,City,City of Alameda,,Alameda,CA,jlim@alamedaca.gov
 alamogordo.gov,City,City of Alamogordo,,Alamogordo,NM,(blank)
 alamoheightstx.gov,City,City of Alamo Heights,,Alamo Heights,TX,jreyna@alamoheightstx.gov
@@ -1176,7 +1176,7 @@ chapelhillnc.gov,City,Town of Chapel Hill,,Chapel Hill,NC,secops@townofchapelhil
 chapinsc.gov,City,Town of Chapin,,Chapin,SC,(blank)
 chaplinct.gov,City,Town of Chaplin,,Chaplin,CT,(blank)
 chapman-ks.gov,City,City of Chapman Kansas,,Chapman,KS,(blank)
-chapmanvillewv.gov,City,"Town of Chapmanville, WV",,Chapmanville,WV,recorder@chapmanvillewv.gov
+chapmanvillewv.gov,City,"Town of Chapmanville, WV",,Chapmanville,WV,townclerk@chapmanvillewv.gov
 chardontownship.gov,City,Chardon Township,,Chardon,OH,(blank)
 charlestonar.gov,City,City of Charleston,,Charleston,AR,cityhall@charlestonar.gov
 charleston-sc.gov,City,City of Charleston,,Charleston,SC,torresi@charleston-sc.gov
@@ -1296,7 +1296,7 @@ cityofadamsville.gov,City,City of Adamsville,,Adamsville,AL,bowman@bcs4support.c
 cityofadams-wi.gov,City,City of Adams,,Adams,WI,(blank)
 cityofadelga.gov,City,"City of Adel, GA",,Adel,GA,service@vc3.com
 cityofaikensc.gov,City,City of Aiken,,Aiken,SC,helpdesk@cityofaikensc.gov
-cityofalachua.gov,City,City of Alachua,,Alachua,FL,(blank)
+cityofalachua.gov,City,City of Alachua,,Alachua,FL,security@cityofalachua.org
 cityofalbanymn.gov,City,City of Albany,,Albany,MN,(blank)
 cityofalbertvilleal.gov,City,City of Albertville,,Albertville,AL,support@clearwinds.net
 cityofalbionmi.gov,City,City of Albion,,Albion,MI,jkern@cityofalbionmi.gov
@@ -1656,6 +1656,7 @@ cityofleachvilleark.gov,City,City of Leachville,,Leachville,AR,(blank)
 cityofleonardnd.gov,City,City of Leonard,,Leonard,ND,leonardndauditor@gmail.com
 cityofleonidas.gov,City,City of Leonidas,,Eveleth,MN,(blank)
 cityoflesueur.gov,City,City of Le Sueur,,Le Sueur,MN,(blank)
+cityoflettsia.gov,City,City of Letts Iowa,,Letts,IA,(blank)
 cityoflewistownil.gov,City,City of Lewistown Illinois,,Lewistown,IL,(blank)
 cityoflewisvilletx.gov,City,City of Lewisville,,Lewisville,TX,(blank)
 cityoflfp.gov,City,City of Lake Forest Park,,Lake Forest Park,WA,aemmons@cityoflfp.gov
@@ -3180,6 +3181,7 @@ fulsheartexas.gov,City,City of Fulshear,,Fulshear,TX,(blank)
 fultondaleal.gov,City,City of Fultondale,,Fultondale,AL,support@dotedison.com
 fultonpolicems.gov,City,Fulton Police Department,,Fulton,MS,glambert@trpdd.com
 fultontown-ny.gov,City,Town of Fulton,,West Fulton,NY,(blank)
+fultontwpmi.gov,City,Fulton Township,,Perrinton,MI,(blank)
 funkstownmd.gov,City,The Town of Funkstown,,Funkstown,MD,(blank)
 fwbpolice.gov,City,City of Fort Walton Beach Police Department,,Fort Walton Beach,FL,(blank)
 gadsden-tn.gov,City,City of Gadsden,,Gadsden,TN,(blank)
@@ -3333,7 +3335,7 @@ goldsboronc.gov,City,City of Goldsboro,,Goldsboro,NC,bhinnant@goldsboronc.gov
 goldsby.gov,City,Town of Goldsby,,Goldsby,OK,(blank)
 golfmanoroh.gov,City,The Village of Golf Manor,,Golf Manor,OH,bret.palmer@signalhillsolutions.com
 gonzalesca.gov,City,City of Gonzales,,Gonzales,CA,(blank)
-goodfieldil.gov,City,Village of Goodfield,,Goodfield,IL,goodfield@telstar-online.net
+goodfieldil.gov,City,Village of Goodfield,,Goodfield,IL,treasurer@goodfieldil.gov
 goodlandks.gov,City,City of Goodland,,Goodland,KS,it@goodlandks.gov
 goodlettsville.gov,City,"City of Goodlettsville, Tennessee",,Goodlettsville,TN,support@goodlettsville.gov
 goodlettsville-tn.gov,City,"City of Goodlettsville, Tennessee",,Goodlettsville,TN,support@goodlettsville.gov
@@ -4217,6 +4219,7 @@ ketteringoh.gov,City,City of Kettering,,Kettering,OH,it.admin@ketteringoh.org
 kewaskumwi.gov,City,"Village of Kewaskum, WI",,Kewaskum,WI,(blank)
 keystoneco.gov,City,Town of Keystone,,Keystone,CO,info@keystoneco.gov
 keysvilleva.gov,City,Town of Keysville,,Keysville,VA,(blank)
+kiantonecourt.gov,City,Town of Kiantone Court,,Jamestown,NY,(blank)
 kiantoneny.gov,City,Town of Kiantone NY,,Jamestown,NY,admin@kiantoneny.gov
 kiawahisland.gov,City,The Town of Kiawah Island,,Johns Island,SC,(blank)
 kiblerarkansas.gov,City,City of Kibler,,Van Buren,AR,(blank)
@@ -4232,6 +4235,7 @@ kingdomcitymo.gov,City,Village of Kingdom City,,Kingdom City,MO,Larrydoyle@kingd
 kingmanks.gov,City,City of Kingman,,Kingman,KS,bieghler@cityofkingman.com
 kingsfordmi.gov,City,City of Kingsford,,Kingsford,MI,chris@timberridgeit.com
 kingslandga.gov,City,City of Kingsland,,Kingsland,GA,(blank)
+kingsleyky.gov,City,City of Kingsley,,Louisville,KY,security@kingsleyky.gov
 kingsporttn.gov,City,City of Kingsport,,Kingsport,TN,FloydBailey@Kingsporttn.gov
 kingstonga.gov,City,City of Kingston Police Department,,Kingston,GA,tsosebee@kingstonga.gov
 kingstonma.gov,City,Town of Kingston,,Kingston,MA,administrator@kingstonma.gov
@@ -4667,7 +4671,7 @@ louisburgkansas.gov,City,City of Louisburg,,Louisburg,KS,(blank)
 louisianamo.gov,City,City of Louisiana,,Louisiana,MO,it@louisianamo.gov
 louisvillealabama.gov,City,Town of Louisville,,Louisville,AL,chief@louisvillepolice.com
 louisvilleco.gov,City,City of Louisville,,Louisville,CO,netadmin@louisvilleco.gov
-louisvillega.gov,City,City of Louisville,,Louisville,GA,rsapp@louisvillega.gov
+louisvillega.gov,City,City of Louisville,,Louisville,GA,cwilliams@louisvillega.gov
 louisville.gov,City,Louisville Metro Government (City of Louisville),,Louisville,KY,cybersecurity@louisvilleky.gov
 louisvilleky.gov,City,Louisville Jefferson County Metro Government,,Louisville,KY,cybersecurity@louisvilleky.gov
 louisvillene.gov,City,"City of Louisville, NE",,Louisville,NE,city@louisvillene.com
@@ -10169,6 +10173,7 @@ circuitclerkmarioncountyms.gov,County,Marion County Circuit Clerk,,Columbia,MS,c
 citrusbocc.gov,County,Citrus County Board of County Commissioners,,Inverness,FL,IT.support@citrusbocc.gov
 citruscounty.gov,County,Citrus County Board of County Commissioners,,Inverness,FL,(blank)
 citrusfire.gov,County,Citrus County BOCC,,Lecanto,FL,(blank)
+clackamas.gov,County,Clackamas County,,Oregon City,OR,(blank)
 claibornecountyms.gov,County,Claiborne County Board of Supervisors,,Port Gibson,MS,security@claibornecountyms.gov
 claibornecountytn.gov,County,Claiborne County Government,,Tazewell,TN,(blank)
 clallamcountywa.gov,County,Clallam County,,Port Angeles,WA,itoperations@clallamcountywa.gov
@@ -10840,6 +10845,7 @@ henryvilaszoo.gov,County,Dane County,,Madison,WI,Olson@danecounty.gov
 herkimercountyny.gov,County,Herkimer County,,Herkimer,NY,aroot@herkimercountyny.gov
 hernandovotes.gov,County,Hernando County Supervisor of Elections,,Brooksville,FL,HernandoElectionsIT@hernandovotes.gov
 hertfordcountync.gov,County,Hertford County,,Winton,NC,(blank)
+hickman911tn.gov,County,Hickman County Emergency Communication,,Centerville,TN,(blank)
 hickmancountytn.gov,County,Hickman County Government,,Centerville,TN,it@hickmancountytn.gov
 highlandohiohealth.gov,County,Highland County Health Department,,Hillsboro,OH,(blank)
 highlandsclerkfl.gov,County,Clerk of Circuit Court & Comptroller,,Sebring,FL,itsecurity@hcclerk.org
@@ -11136,7 +11142,7 @@ lebanoncountypa.gov,County,Lebanon County,,Lebanon,PA,itssecurity@lebanoncountyp
 leeclerkfl.gov,County,Lee County Clerk of the Circuit Court and Comptroller,,Fort Myers,FL,(blank)
 leecosheriffal.gov,County,Lee County Sheriff's Office,,Opelika,AL,communityrelations@leecosheriffal.gov
 leecountyalcoroner.gov,County,Office of Lee County Coroner,,Opelika,AL,(blank)
-leecountyal.gov,County,Lee County Commission,,Opelika,AL,scooper@leeco.us
+leecountyal.gov,County,Lee County Commission,,Opelika,AL,scooper@leecountyal.gov
 leecountyar.gov,County,Lee County,,Marianna,AR,(blank)
 leecountyclerkar.gov,County,Lee County Clerk,,Marianna,AR,(blank)
 lee-county-fl.gov,County,Lee County Government,,Fort Myers,FL,komalley@leegov.com
@@ -11562,6 +11568,7 @@ natronaincident.gov,County,Natrona County Emergency Management,,Casper,WY,mcaval
 natronasheriff.gov,County,Natrona County Sheriff's Office,,Casper,WY,mcavalier@natronacounty-wy.gov
 navajocountyaz.gov,County,Navajo County,,Holbrook,AZ,security@navajocountyaz.gov
 navajocountysheriff.gov,County,Navajo County,,Holbrook,AZ,Security@navajocountyaz.gov
+navarrocounty.gov,County,Navarro County,,Corsicana,TX,(blank)
 nejcga.gov,County,Northeast Judicial Circuit Court,,Gainesville,GA,cis-technicians@nejcga.gov
 nelsoncountyky.gov,County,County of Nelson/Nelson County Fiscal Court,,Bardstown,KY,jenny@jennyboonewebstudio.com
 nelsoncounty-va.gov,County,Nelson County,,Lovingston,VA,(blank)
@@ -12834,7 +12841,6 @@ fedsfeedfamilies.gov,Federal - Executive,Department of Agriculture,Office of Com
 forestsandrangelands.gov,Federal - Executive,Department of Agriculture,Forest Service,Washington,DC,cyber.incident@usda.gov
 invasivespeciesinfo.gov,Federal - Executive,Department of Agriculture,Agricultural Research Service,Beltsville,MD,cyber.incidents@usda.gov
 lcacommons.gov,Federal - Executive,Department of Agriculture,Agricultural Research Service,Beltsville,MD,cyber.incidents@usda.gov
-myplate.gov,Federal - Executive,Department of Agriculture,Food and Nutrition Service,Alexandria,VA,joseph.binns@usda.gov
 nafri.gov,Federal - Executive,Department of Agriculture,Forest Service,Washington,DC,cyber.incident@usda.gov
 nutrition.gov,Federal - Executive,Department of Agriculture,Office of Communications,Washington,DC,cyber.incidents@usda.gov
 nwcg.gov,Federal - Executive,Department of Agriculture,,Washington,DC,cyber.incidents@usda.gov
@@ -13117,6 +13123,7 @@ organdonor.gov,Federal - Executive,Department of Health and Human Services,Healt
 phe.gov,Federal - Executive,Department of Health and Human Services,"Assistant Secretary for Preparedness and Response, Office of the Secretary",Washington,DC,responsibledisclosure@hhs.gov
 psc.gov,Federal - Executive,Department of Health and Human Services,Program Support Center,Rockville,MD,responsibledisclosure@hhs.gov
 pubmed.gov,Federal - Executive,Department of Health and Human Services,"National Library of Medicine, NIH",Bethesda,MD,responsibledisclosure@hhs.gov
+realfood.gov,Federal - Executive,Department of Health and Human Services,,Washington,DC,(blank)
 recoverymonth.gov,Federal - Executive,Department of Health and Human Services,Substance Abuse and Mental Health Services Administration,Rockville,MD,responsibledisclosure@hhs.gov
 reproductivehealthservices.gov,Federal - Executive,Department of Health and Human Services,,Washington,DC,responsibledisclosure@hhs.gov
 samhsa.gov,Federal - Executive,Department of Health and Human Services,Substance Abuse and Mental Health Services Administration,Rockville,MD,responsibledisclosure@hhs.gov
@@ -13550,7 +13557,6 @@ pci.gov,Federal - Executive,Executive Office of the President,,Washington,DC,PIT
 pitc.gov,Federal - Executive,Executive Office of the President,,Washington,DC,dl.eop.cloudadmin@eop.gov
 pitctestdomain.gov,Federal - Executive,Executive Office of the President,,Washington,DC,dl.eop.cloudadmin@eop.gov
 quantum.gov,Federal - Executive,Executive Office of the President,Office of Science and Technology Policy,Washington,DC,baranyuk@nitrd.gov
-realfood.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,(blank)
 safedc.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,(blank)
 saveamerica.gov,Federal - Executive,Executive Office of the President,,Washington,DC,dl.eop.cloudadmin@eop.gov
 si.gov,Federal - Executive,Executive Office of the President,White House Office,Washington,DC,(blank)
@@ -13959,6 +13965,7 @@ gaoinnovation.gov,Federal - Legislative,Government Accountability Office,,Washin
 gaoinnovationlab.gov,Federal - Legislative,Government Accountability Office,,Washington,DC,soc@gao.gov
 gaoinnovations.gov,Federal - Legislative,Government Accountability Office,,Washington,DC,soc@gao.gov
 gaonet.gov,Federal - Legislative,Government Accountability Office,,Washington,DC,(blank)
+gao-oig.gov,Federal - Legislative,Government Accountability Office,gao-oig.gov,Washington,DC,(blank)
 congressionaldirectory.gov,Federal - Legislative,Government Publishing Office,,Washington,DC,gpossl@gpo.gov
 congressionalrecord.gov,Federal - Legislative,Government Publishing Office,,Washington,DC,gpossl@gpo.gov
 ecfr.gov,Federal - Legislative,Government Publishing Office,,Washington,DC,gpossl@gpo.gov
@@ -14054,38 +14061,6 @@ uscirf.gov,Federal - Legislative,U.S. Commission on International Religious Free
 america250.gov,Federal - Legislative,U.S. Semiquincentennial Commission,United States Semiquincentennial Commission,Alexandria,VA,domain_security@america250.gov
 usa250.gov,Federal - Legislative,U.S. Semiquincentennial Commission,United States Semiquincentennial Commission,Washington,DC,domain_security@america250.gov
 ussemiquincentennial.gov,Federal - Legislative,U.S. Semiquincentennial Commission,United States Semiquincentennial Commission,Alexandria,VA,domain_security@america250.gov
-actually-course.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-agent-inside.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-analysis-manage.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-box-mean-player.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-but-another-and.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-create-stay.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-despite-natural.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-difficult-marriage.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-easy-walk-type-so.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-economic-bar.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-good-especially-low.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-guess-star-event.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-happen-voice-skin.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-improve-notice.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-know-source.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-might-enjoy-central.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-next-turn-seek-not.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-prepare-old-herself.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-reach-republican.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-red-upon-list.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-reveal-everybody.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-size-his-least.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-society-at.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-someone-game-hotel.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-state-well-alone.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-step-similar-hope.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-stop-all-magazine.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-stuff-believe-out.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-ten-mission-trip.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-think-financial.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-training-throughout.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
-upon-sell-one.gov,Federal,Wish You Were Here,,West Theresa,MO,(blank)
 itis.gov,Federal,Smithsonian Institution,,Herndon,VA,abuse@si.edu
 smithsonian.gov,Federal,Smithsonian Institution,,Herndon,VA,abuse@si.edu
 ahidta.gov,Interstate,Appalachia HIDTA,,London,KY,security@ahidta.org
@@ -15230,7 +15205,7 @@ vandenbergvillagecsd.gov,Special district,Vandenberg Village Community Services 
 vassarlibrarymi.gov,Special district,Bullard Sanford Memorial Library,,Vassar,MI,(blank)
 vauxmontmd.gov,Special district,Vauxmont Metropolitan District,,Arvada,CO,Board@vauxmontmd.gov
 vayahealth.gov,Special district,Vaya Health,,Asheville,NC,(blank)
-vcera.gov,Special district,Ventura County Employees' Retirement Association,,Ventura,CA,(blank)
+vcera.gov,Special district,Ventura County Employees' Retirement Association,,Ventura,CA,VCERA-IT@vcera.gov
 vcpa.gov,Special district,Volusia County Property Appraiser,,DeLand,FL,vcpa_it@volusia.org
 velascodrainage.gov,Special district,Velasco Drainage District,,Clute,TX,juan@velascodrainage.com
 venturacountyfire.gov,Special district,Ventura County Fire Department,,Thousand Oaks,CA,(blank)
@@ -15321,7 +15296,7 @@ alsar.gov,Special district,Alabama Search and Rescue,,Montgomery,AL,chief@alsar.
 ansoniahousing.gov,Special district,Housing Authority of the City of Ansonia,,Ansonia,CT,info@ansoniahousing.gov
 ashlandbayfield911wi.gov,Special district,Ashland-Bayfield Consolidated PSAP,,WASHBURN,WI,(blank)
 az-fhsd.gov,Special district,Fountain Hills Sanitary District,,Fountain Hills,AZ,fhsd@az-fhsd.gov
-brownvillefiredistrictny.gov,Special district,Brownville Joint Fire District,,Dexter,NY,(blank)
+brownvillefiredistrictny.gov,Special district,Brownville Joint Fire District,,Dexter,NY,support@digitalfirehouse.com
 cassclayalerts.gov,Special district,Red River Regional Dispatch Center,,Fargo,ND,security@FargoND.GOV
 cmsdca.gov,Special district,Costa Mesa Sanitary District,,Costa Mesa,CA,gterraneo@cmsdca.gov
 consolidatedmadca.gov,Special district,Consolidated Mosquito Abatement District,,Parlier,CA,jazellholeman@gmail.com
